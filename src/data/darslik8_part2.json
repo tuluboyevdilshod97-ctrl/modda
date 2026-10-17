@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "d8-101",
+    "question": "O'zbekistonda hokimiyatning birdan bir manbai kim?",
+    "options": [
+      "Prezident",
+      "Xalq",
+      "Vazirlar",
+      "Sudyalar"
+    ],
+    "correctIndex": 1,
+    "explanation": "O'zbekiston xalqi davlat hokimiyatining birdan bir manbaidir (Konstitutsiya, 7-modda).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-102",
+    "question": "Davlat hayotining eng muhim masalalari qanday hal etiladi?",
+    "options": [
+      "Umumxalq ovozi (referendum) orqali",
+      "Faqat vazirlar qarori bilan",
+      "Faqat sud qarori bilan",
+      "Qur'a tashlash yo'li bilan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat hayotining eng muhim masalalari umumxalq ovozi — referendum orqali hal qilinadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-103",
+    "question": "O'zbekiston suverenitetining huquqiy asosi nima?",
+    "options": [
+      "Vazirlar Mahkamasi qarori",
+      "Sud hukmi",
+      "Konstitutsiya (Asosiy qonun)",
+      "Farmon"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekiston davlat suverenitetining asosiy huquqiy poydevori — Konstitutsiyadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-104",
+    "question": "Davlat hokimiyatining bosh vazifasi nima?",
+    "options": [
+      "Soliqlarni ko'paytirish",
+      "Byurokratiyani kuchaytirish",
+      "Davlat sirlarini ko'paytirish",
+      "Xalq manfaatlariga xizmat qilish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida mas'uldirlar va xalqqa xizmat qiladilar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-105",
+    "question": "Hokimiyatning bir organda to'planib qolmasligi uchun nima belgilangan?",
+    "options": [
+      "Hokimiyatni kuchaytirish",
+      "Hokimiyatni tugatish",
+      "Hokimiyatning bo'linishi tamoyili",
+      "Hokimiyatni yashirish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hokimiyatning bir organda to'planib qolmasligi uchun hokimiyatlar bo'linishi tamoyili amal qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-106",
+    "question": "Davlat hokimiyati tizimiga kimlar kiradi?",
+    "options": [
+      "Faqat partiyalar",
+      "Faqat mahallalar",
+      "Prezident, Oliy Majlis, hukumat, sudlar",
+      "Faqat OAV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Davlat hokimiyati tizimi: Prezident, Oliy Majlis, Vazirlar Mahkamasi va sud hokimiyatidan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-107",
+    "question": "Xalq qabulxonalari kimlarning murojaatlari bilan ishlaydi?",
+    "options": [
+      "Fuqarolarning",
+      "Faqat vazirlarning",
+      "Faqat chet elliklarning",
+      "Faqat harbiylarning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prezident Xalq qabulxonalari bevosita barcha fuqarolarning murojaatlari bilan ishlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-108",
+    "question": "Davlat va fuqaro o'rtasida qanday aloqa o'rnatilgan?",
+    "options": [
+      "Vaqtinchalik ma'muriy aloqa",
+      "Doimiy siyosiy-huquqiy aloqa",
+      "Faqat iqtisodiy aloqa",
+      "Faqat harbiy xizmat davridagi aloqa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuqarolik — shaxs va davlat o'rtasidagi doimiy siyosiy-huquqiy aloqani ifodalaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-109",
+    "question": "Davlat hayotining muhim masalalari hal etishdan oldin nimaga qo'yiladi?",
+    "options": [
+      "Yashirin saqlanadi",
+      "Bekor qilinadi",
+      "Unutiladi",
+      "Xalq muhokamasiga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Muhim qonun loyihalari va davlat masalalari umumxalq muhokamasiga qo'yiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-110",
+    "question": "Davlat boshqaruvining asosiy maqsadi nima?",
+    "options": [
+      "Hokimiyatni saqlab qolish",
+      "Idoralar sonini ko'paytirish",
+      "Qog'ozbozlikni oshirish",
+      "Xalq farovonligini ta'minlash"
+    ],
+    "correctIndex": 3,
+    "explanation": "Davlat boshqaruvining asosiy oliy maqsadi — xalq farovonligi va qadrini yuksaltirishdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 11-mavzu"
+  },
+  {
+    "id": "d8-111",
+    "question": "O'zbekistonda davlat boshlig'i kim?",
+    "options": [
+      "Prezident",
+      "Bosh vazir",
+      "Senat raisi",
+      "Bosh prokuror"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston Respublikasining Prezidenti davlat boshlig'idir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-112",
+    "question": "O'zbekiston Prezidenti kim tomonidan saylanadi?",
+    "options": [
+      "Oliy Majlis tomonidan",
+      "Fuqarolar tomonidan umumiy, teng, to'g'ridan-to'g'ri saylovda, yashirin ovoz bilan",
+      "Vazirlar tomonidan",
+      "Sudyalar tomonidan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prezident umumiy, teng va to'g'ridan-to'g'ri saylov huquqi asosida yashirin ovoz berish yo'li bilan xalq tomonidan saylanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-113",
+    "question": "Qurolli Kuchlarning Oliy Bosh Qo'mondoni kim?",
+    "options": [
+      "Bosh vazir",
+      "Mudofaa vaziri",
+      "Prezident",
+      "Ichki ishlar vaziri"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekiston Respublikasi Prezidenti Qurolli Kuchlarning Oliy Bosh Qo'mondonidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-114",
+    "question": "Prezident qanday hujjatlar chiqaradi?",
+    "options": [
+      "Faqat qonunlar",
+      "Faqat hukmlar",
+      "Faqat bayonnomalar",
+      "Farmon, qaror va farmoyishlar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prezident o'z vakolatlari doirasida farmonlar, qarorlar va farmoyishlar qabul qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-115",
+    "question": "Prezident o'z faoliyatida nimaga tayanadi?",
+    "options": [
+      "Shaxsiy xohishiga",
+      "An'analargagina",
+      "Xorijiy davlatlar ko'rsatmasiga",
+      "Konstitutsiya va qonunlarga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prezident Konstitutsiya va qonunlarga qat'iy amal qilgan holda faoliyat yuritadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-116",
+    "question": "Prezidentlikka nomzodlarga qo'yiladigan talablar qayerda belgilangan?",
+    "options": [
+      "Konstitutsiyada",
+      "Maktab nizomida",
+      "Gazetada",
+      "E'londa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prezidentlikka nomzodga qo'yiladigan yosh va fuqarolik talablari Konstitutsiyada belgilangan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-117",
+    "question": "Prezident farmoni qanday hujjat hisoblanadi?",
+    "options": [
+      "Sud hukmi",
+      "Qonunosti normativ-huquqiy hujjat",
+      "Xususiy xat",
+      "Bayonnoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prezident farmoni qonunosti normativ-huquqiy hujjati hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-118",
+    "question": "Qonunlarni kim qabul qiladi?",
+    "options": [
+      "Prezident",
+      "Vazirlar Mahkamasi",
+      "Oliy Majlis",
+      "Sud"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qonunlarni faqatgina Oliy Majlis qabul qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-119",
+    "question": "Davlatga rahbar nima uchun zarur?",
+    "options": [
+      "Bayramlar uchun",
+      "Sayr qilish uchun",
+      "Mukofotlar uchun",
+      "Davlatni boshqarish va barqarorlikni ta'minlash uchun"
+    ],
+    "correctIndex": 3,
+    "explanation": "Davlat rahbari mamlakatda barqarorlik, yaxlitlik va boshqaruvni ta'minlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-120",
+    "question": "Prezidentning vakolatiga qaysi biri kiradi?",
+    "options": [
+      "Chet el elchilarini qabul qilish va tayinlash",
+      "Dars jadvali tuzish",
+      "Kasalxona qurish",
+      "Non narxini belgilash"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chet davlatlar elchilarini qabul qilish va elchilarni tayinlash Prezident vakolatidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 12-mavzu"
+  },
+  {
+    "id": "d8-121",
+    "question": "Oliy Majlis qanday organ?",
+    "options": [
+      "Ijro etuvchi organ",
+      "Oliy vakillik va qonun chiqaruvchi organ",
+      "Sud organi",
+      "Nazorat organi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oliy Majlis oliy davlat vakillik organi bo'lib, qonun chiqaruvchi hokimiyatni amalga oshiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-122",
+    "question": "Oliy Majlis nechta palatadan iborat?",
+    "options": [
+      "2 ta",
+      "1 ta",
+      "3 ta",
+      "4 ta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oliy Majlis ikki palatadan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-123",
+    "question": "Oliy Majlis palatalari qaysilar?",
+    "options": [
+      "Davlat Dumasi va Kengash",
+      "Kongress va Assambleya",
+      "Qonunchilik palatasi va Senat",
+      "Yuqori va Quyi kengash"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oliy Majlis palatalari: Qonunchilik palatasi (quyi palata) va Senat (yuqori palata).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-124",
+    "question": "Qonunchilik palatasi necha deputatdan iborat?",
+    "options": [
+      "100 nafar",
+      "120 nafar",
+      "135 nafar",
+      "150 nafar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Qonunchilik palatasi 150 nafar deputatdan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-125",
+    "question": "Oliy Majlis sessiyasi bir yilda necha marta chaqiriladi?",
+    "options": [
+      "Har oyda",
+      "Bir yilda ikki martadan kam bo'lmagan tarzda",
+      "Har 5 yilda bir marta",
+      "Har 10 yilda bir marta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Senat majlislari zaruratga qarab, lekin yiliga kamida ikki marta o'tkaziladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-126",
+    "question": "Oliy Majlisning quyi palatasi qaysi?",
+    "options": [
+      "Senat",
+      "Qonunchilik palatasi",
+      "Kengash",
+      "Qo'mita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qonunchilik palatasi — Oliy Majlisning quyi palatasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-127",
+    "question": "Oliy Majlisning yuqori palatasi qaysi?",
+    "options": [
+      "Senat",
+      "Qonunchilik palatasi",
+      "Assambleya",
+      "Duma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Senat — Oliy Majlisning yuqori palatasidir (hududiy vakillik palatasi).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-128",
+    "question": "Qonunchilik palatasi deputatlari kim tomonidan saylanadi?",
+    "options": [
+      "Vazirlar tomonidan",
+      "Sudyalar tomonidan",
+      "Xalq tomonidan",
+      "Hokimlar tomonidan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deputatlar xalq tomonidan umumiy, teng va to'g'ridan-to'g'ri saylovda saylanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-129",
+    "question": "Deputatlikka nomzodlarga qo'yiladigan talablar qayerda belgilanadi?",
+    "options": [
+      "Partiya nizomlarida",
+      "Saylovoldi dasturlarda",
+      "Matbuot e'lonlarida",
+      "Qonunda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Deputatlikka nomzodlarga talablar Saylov kodeksi va qonunlarda belgilangan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-130",
+    "question": "Oliy Majlisning ikki palatali bo'lishidan maqsad nima?",
+    "options": [
+      "Xarajatlarni oshirish",
+      "Ishni sekinlashtirish",
+      "Qonunlar sifatini oshirish va manfaatlar muvozanati",
+      "Deputatlar sonini kamaytirish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ikki palatalilik qonunlarning sifatini oshirish va umumdavlat hamda hududiy manfaatlar muvozanatini ta'minlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 13-mavzu"
+  },
+  {
+    "id": "d8-131",
+    "question": "Ijro etuvchi hokimiyatning oliy organi qaysi?",
+    "options": [
+      "Oliy Majlis",
+      "Oliy sud",
+      "Vazirlar Mahkamasi",
+      "Hisob palatasi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vazirlar Mahkamasi (Hukumat) — ijro etuvchi hokimiyatning oliy organidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-132",
+    "question": "Vazirlar Mahkamasi kim oldida javobgar?",
+    "options": [
+      "Prezident va Oliy Majlis oldida",
+      "Faqat sud oldida",
+      "Faqat partiyalar oldida",
+      "Hech kim oldida javobgar emas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vazirlar Mahkamasi Prezident va Oliy Majlis oldida javobgardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-133",
+    "question": "Vazirlar Mahkamasi qanday hujjatlar chiqaradi?",
+    "options": [
+      "Farmonlar",
+      "Qaror va farmoyishlar",
+      "Qonunlar",
+      "Hukmlar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vazirlar Mahkamasi qarorlar va farmoyishlar qabul qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-134",
+    "question": "Joylardagi ijro hokimiyati organi qaysi?",
+    "options": [
+      "Mahalla",
+      "Sud",
+      "Siyosiy partiya",
+      "Hokimlik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Viloyat, tuman va shahar hokimliklari joylardagi ijroiya hokimiyati organlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-135",
+    "question": "Hukumat tarkibiga kimlar kiradi?",
+    "options": [
+      "Deputatlar",
+      "Sudyalar",
+      "Bosh vazir, uning o'rinbosarlari, vazirlar, davlat qo'mitalari rahbarlari",
+      "Advokatlar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hukumat tarkibiga Bosh vazir, o'rinbosarlar, vazirlar va qo'mita rahbarlari kiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-136",
+    "question": "Ijro etuvchi hokimiyat tizimiga nimalar kiradi?",
+    "options": [
+      "Faqat sudlar",
+      "Faqat partiyalar",
+      "Vazirlar Mahkamasi, vazirliklar, davlat qo'mitalari, hokimliklar",
+      "Faqat OAV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ijro hokimiyati tizimi: Hukumat, vazirliklar, idoralar va hokimliklar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-137",
+    "question": "Vazirlar Mahkamasining asosiy vazifasi nima?",
+    "options": [
+      "Qonunlar ijrosini ta'minlash",
+      "Qonunlarni bekor qilish",
+      "Hukmlar chiqarish",
+      "Saylov o'tkazish"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hukumatning asosiy vazifasi — qonunlar va davlat dasturlarining ijrosini ta'minlash.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-138",
+    "question": "Vazirlik qanday organ?",
+    "options": [
+      "Sud organi",
+      "Markaziy ijro etuvchi organ",
+      "Qonun chiqaruvchi organ",
+      "Jamoat birlashmasi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vazirlik muayyan sohada davlat siyosatini yurituvchi markaziy ijro etuvchi organdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-139",
+    "question": "Viloyat va tuman hokimliklarining vazifasi nima?",
+    "options": [
+      "Qonun qabul qilish",
+      "Hukm chiqarish",
+      "Pul chop etish",
+      "Joylarda qonunlar ijrosini ta'minlash"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hokimliklar joylarda qonunlar, farmonlar va qarorlar ijrosini tashkil etadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-140",
+    "question": "Mahalla fuqarolar yig'ini davlat organimi?",
+    "options": [
+      "Ha, markaziy davlat organi",
+      "Ha, sud organi",
+      "Ha, vazirlik",
+      "Yo'q, fuqarolarning o'zini o'zi boshqarish organi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mahalla davlat organi emas, fuqarolarning o'zini o'zi boshqarish organidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 14-mavzu"
+  },
+  {
+    "id": "d8-141",
+    "question": "Sud hokimiyatining asosiy vazifasi nima?",
+    "options": [
+      "Qonun qabul qilish",
+      "Odil sudlovni amalga oshirish",
+      "Soliq yig'ish",
+      "Saylov o'tkazish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sud hokimiyatining birdan bir vazifasi odil sudlovni amalga oshirishdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-142",
+    "question": "Sudyalarning odil sudlovni amalga oshirish faoliyatiga aralashish mumkinmi?",
+    "options": [
+      "Yo'l qo'yilmaydi, bu javobgarlikka sabab bo'ladi",
+      "Har doim mumkin",
+      "Faqat vazirlar aralashishi mumkin",
+      "Faqat partiyalar aralashishi mumkin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sudyalarning odil sudlovni amalga oshirish borasidagi faoliyatiga har qanday tarzda aralashishga yo'l qo'yilmaydi va qonun bilan javobgarlikka sabab bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-143",
+    "question": "O'zbekistonda sud ishlari qaysi tilda yuritiladi?",
+    "options": [
+      "Faqat rus tilida",
+      "Faqat ingliz tilida",
+      "O'zbek tilida (yoki ko'pchilik so'zlashadigan tilda)",
+      "Faqat lotin tilida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sud ishlari davlat tilida yoki muayyan joydagi aholi ko'pchiligi so'zlashadigan tilda yuritiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-144",
+    "question": "Odil sudlovning muhim konstitutsiyaviy tamoyillaridan biri qaysi?",
+    "options": [
+      "Maxfiylik",
+      "Yopiqlik",
+      "Pullilik",
+      "Oshkoralik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sud majlislari barcha sudlarda ochiq ko'riladi — oshkoralik asosiy tamoyildir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-145",
+    "question": "Ayblanuvchi qanday huquqqa ega?",
+    "options": [
+      "Sudga kelmaslik huquqiga",
+      "Himoyalanish huquqiga",
+      "Qonunni buzish huquqiga",
+      "Guvohlarni qo'rqitish huquqiga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gumon qilinuvchi va sudlanuvchi himoyalanish (advokat yordamidan foydalanish) huquqiga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-146",
+    "question": "Sud hokimiyati nima?",
+    "options": [
+      "Qonun qabul qiluvchi hokimiyat",
+      "Odil sudlovni amalga oshiruvchi hokimiyat tarmog'i",
+      "Soliq yig'uvchi hokimiyat",
+      "Saylov o'tkazuvchi hokimiyat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sud hokimiyati — odil sudlov orqali qonuniylik va inson huquqlarini himoya qiluvchi mustaqil hokimiyat tarmog'i.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-147",
+    "question": "Sud tizimiga qaysi sudlar kiradi?",
+    "options": [
+      "Konstitutsiyaviy sud, Oliy sud, harbiy va hududiy sudlar",
+      "Faqat harbiy sudlar",
+      "Faqat tuman sudlari",
+      "Faqat shahar sudlari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sud tizimi: Konstitutsiyaviy sud, Oliy sud, harbiy sudlar va fuqarolik, jinoyat, iqtisodiy hamda ma'muriy sudlardan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-148",
+    "question": "Sudyalar mustaqilligi kim tomonidan kafolatlanadi?",
+    "options": [
+      "Partiyalar tomonidan",
+      "Firmalar tomonidan",
+      "Davlat tomonidan",
+      "Hech kim tomonidan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sudyalar mustaqilligi davlat va Konstitutsiya tomonidan kafolatlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-149",
+    "question": "Ishlar yopiq sud majlisida qachon ko'riladi?",
+    "options": [
+      "Har doim",
+      "Sudya xohlasa",
+      "Hech qachon",
+      "Faqat qonunda belgilangan hollarda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yopiq sud majlisi faqat davlat sirlari, jinsiy jinoyatlar yoki qonunda qat'iy belgilangan istisno hollarda o'tkaziladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-150",
+    "question": "Qonuniy kuchga kirgan sud hujjatlari kim uchun majburiy?",
+    "options": [
+      "Faqat ayblanuvchi uchun",
+      "Faqat da'vogar uchun",
+      "Barcha davlat organlari, tashkilotlar va fuqarolar uchun",
+      "Hech kim uchun majburiy emas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qonuniy kuchga kirgan sud qarorlari O'zbekiston hududidagi barcha davlat organlari, korxonalar va shaxslar uchun majburiydir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 15-mavzu"
+  },
+  {
+    "id": "d8-151",
+    "question": "«Axloq» deb nimaga aytiladi?",
+    "options": [
+      "Kishining jamiyatdagi xulq-atvorini tartibga soluvchi qoidalar tizimiga",
+      "Davlat tomonidan belgilanadigan majburiy qoidalarga",
+      "Sud qarorlariga",
+      "Soliq qoidalariga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Axloq — odamlar xulq-atvorini vijdon, e'tiqod va jamoatchilik fikri asosida tartibga soluvchi normalar tizimi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-152",
+    "question": "Huquq normalarini kim belgilaydi?",
+    "options": [
+      "Har bir fuqaro o'zi",
+      "Davlat",
+      "Qo'shnilar",
+      "Tasodifiy shaxslar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquq normalarini faqat davlat o'rnatadi yoki tasdiqlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-153",
+    "question": "Axloq normalari nimaga tayanadi?",
+    "options": [
+      "Davlat majburloviga",
+      "Harbiy kuchga",
+      "Jamoatchilik fikri va vijdonga",
+      "Jarimalarga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Axloq normalari inson vijdoni va jamoatchilik fikriga tayanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-154",
+    "question": "Qaysi biri huquq normasi buzilishiga misol?",
+    "options": [
+      "Kattalarga salom bermaslik",
+      "Do'stiga sovg'a bermaslik",
+      "Kitob o'qimaslik",
+      "Svetoforning qizil chirog'ida yo'lni kesib o'tish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Svetofor qoidasini buzish huquq normasi (yo'l harakati qoidasi) buzilishidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-155",
+    "question": "Axloq va huquqning umumiyligi nimada?",
+    "options": [
+      "Ikkalasi ham davlat tomonidan belgilanadi",
+      "Ikkalasi ham faqat sudda qo'llaniladi",
+      "Ikkalasi ham kishilar xulq-atvorini tartibga soladi",
+      "Ikkalasi ham pullik xizmatlardir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Axloq ham, huquq ham ijtimoiy munosabatlar va xulq-atvorni tartibga soluvchi ijtimoiy normalardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-156",
+    "question": "«Huquq» deb nimaga aytiladi?",
+    "options": [
+      "Davlat belgilagan majburiy xulq-atvor qoidalari tizimiga",
+      "Axloqiy nasihatlar to'plamiga",
+      "Diniy ko'rsatmalar tizimiga",
+      "Odob qoidalari yig'indisiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquq — davlat tomonidan o'rnatilgan va majburiy kuch bilan ta'minlanadigan xulq-atvor qoidalari tizimidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-157",
+    "question": "Huquq axloqdan nimasi bilan farq qiladi?",
+    "options": [
+      "Qadimiyligi bilan",
+      "Davlat majburlovi bilan ta'minlanishi bilan",
+      "Qisqaligi bilan",
+      "Osonligi bilan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquq davlat majburlovi va sanksiyasi bilan ta'minlanishi bilan axloqdan farq qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-158",
+    "question": "Milliy axloq normalari nimaning shakllanishiga ta'sir qilgan?",
+    "options": [
+      "Ob-havoning",
+      "Sportning",
+      "Milliy huquq tizimining",
+      "Modaning"
+    ],
+    "correctIndex": 2,
+    "explanation": "Milliy qadriyatlar va axloq milliy huquq tizimining shakllanishiga poydevor bo'lgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-159",
+    "question": "Huquqning funksiyasiga qaysi biri misol bo'ladi?",
+    "options": [
+      "Ovqat pishirish",
+      "Kiyim tikish",
+      "Uy qurish",
+      "Kishilar xulq-atvorini tartibga solish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huquqning bosh funksiyasi ijtimoiy munosabatlar va xulq-atvorni tartibga solishdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-160",
+    "question": "Axloq normasi buzilishiga qaysi biri misol bo'ladi?",
+    "options": [
+      "Kattalarga qo'pollik qilish",
+      "Qizil chiroqda o'tish",
+      "Soliq to'lamaslik",
+      "Hujjatsiz haydash"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kattalarga qo'pollik qilish huquq emas, axloq va odob normasining buzilishidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 16-mavzu"
+  },
+  {
+    "id": "d8-161",
+    "question": "«Huquq normasi» deb nimaga aytiladi?",
+    "options": [
+      "Odob qoidalariga",
+      "Davlat tomonidan belgilanadigan, barcha uchun majburiy xulq-atvor qoidasiga",
+      "Oilaviy udumlarga",
+      "Do'stlar kelishuviga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquq normasi — davlat tomonidan belgilangan, hamma uchun majburiy xulq-atvor qoidasi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-162",
+    "question": "Huquq normasining tarkibiy elementlari qaysilar?",
+    "options": [
+      "Gipoteza, dispozitsiya, sanksiya",
+      "Subyekt, obyekt, mazmun",
+      "Qonun, farmon, qaror",
+      "Huquq, burch, erkinlik"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquq normasi 3 ta tarkibiy elementdan iborat: gipoteza, dispozitsiya, sanksiya.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-163",
+    "question": "«Sanksiya» deb nimaga aytiladi?",
+    "options": [
+      "Mukofotga",
+      "Bayramga",
+      "Norma buzilganda qo'llaniladigan ta'sir (jazo) chorasiga",
+      "Ta'tilga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sanksiya — huquq normasi buzilganda davlat tomonidan qo'llaniladigan chora yoki jazo.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-164",
+    "question": "«O'zbekiston Respublikasining poytaxti – Toshkent shahri» degan norma qaysi elementdan iborat?",
+    "options": [
+      "Gipotezadan",
+      "Sanksiyadan",
+      "Subyektdan",
+      "Dispozitsiyadan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bu norma bevosita qoidaning o'zi bo'lgani uchun dispozitsiyadan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-165",
+    "question": "«Gipoteza» deb nimaga aytiladi?",
+    "options": [
+      "Normadagi qoida qo'llaniladigan shart-sharoitga",
+      "Jazo chorasiga",
+      "Sud binosiga",
+      "Qonun muallifiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gipoteza — normaning qaysi shart-sharoit va holatlarda qo'llanilishini ko'rsatuvchi qismi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-166",
+    "question": "Huquq normasi kim uchun majburiy?",
+    "options": [
+      "Faqat kattalar uchun",
+      "Barcha uchun",
+      "Faqat erkaklar uchun",
+      "Faqat amaldorlar uchun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquq normalari uning ta'sir doirasidagi barcha shaxslar uchun majburiydir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-167",
+    "question": "«Dispozitsiya» deb nimaga aytiladi?",
+    "options": [
+      "Normadagi asosiy qoidaga (huquq va burch bayoniga)",
+      "Jazo chorasiga",
+      "Sud binosiga",
+      "Qonun muallifiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dispozitsiya — subyektlarning huquq va majburiyatlari bayon etilgan asosiy qoida.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-168",
+    "question": "Konstitutsiya normalarining o'ziga xosligi nimada?",
+    "options": [
+      "Faqat jazodan iboratligi",
+      "Hech qanday qoida yo'qligi",
+      "Sanksiya elementining deyarli ko'zda tutilmaganligi",
+      "Hech kimga tegishli emasligi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Konstitutsiya normalarida sanksiya (jazo) deyarli bo'lmaydi, chunki ular ta'sis etuvchi asosiy qoidalardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-169",
+    "question": "«Suvdan foydalanish shartlarini buzish» degan qism qaysi elementga misol?",
+    "options": [
+      "Dispozitsiyaga",
+      "Sanksiyaga",
+      "Subyektga",
+      "Gipotezaga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shart va holatni bildirgani uchun bu qism gipotezaga misol bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-170",
+    "question": "Huquq normasi nechta tarkibiy elementdan iborat?",
+    "options": [
+      "2 ta",
+      "5 ta",
+      "3 ta",
+      "10 ta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Klassik huquq normasi 3 elementdan iborat: gipoteza, dispozitsiya, sanksiya.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 17-mavzu"
+  },
+  {
+    "id": "d8-171",
+    "question": "«Huquq sohasi» deb nimaga aytiladi?",
+    "options": [
+      "Sud binosiga",
+      "Qonun saqlanadigan xonaga",
+      "Bir turdagi ijtimoiy munosabatlarni tartibga soluvchi huquq normalari majmuiga",
+      "Advokatlar idorasiga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquq sohasi — bir turdagi ijtimoiy munosabatlarni tartibga soluvchi normalar birligidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-172",
+    "question": "O'g'rilik uchun javobgarlik qaysi huquq sohasiga oid?",
+    "options": [
+      "Jinoyat huquqiga",
+      "Mehnat huquqiga",
+      "Oila huquqiga",
+      "Yer huquqiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'g'rilik jinoyat hisoblanadi va Jinoyat kodeksi bo'yicha javobgarlikka tortiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-173",
+    "question": "Nikoh munosabatlari qaysi huquq sohasi bilan tartibga solinadi?",
+    "options": [
+      "Jinoyat huquqi",
+      "Oila huquqi",
+      "Moliya huquqi",
+      "Ekologiya huquqi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nikoh, ajralish va aliment munosabatlari oila huquqi bilan tartibga solinadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-174",
+    "question": "Ishga qabul qilish munosabatlari qaysi huquq sohasiga oid?",
+    "options": [
+      "Jinoyat huquqiga",
+      "Oila huquqiga",
+      "Ma'muriy huquqqa",
+      "Mehnat huquqiga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ishga qabul qilish, mehnat shartnomasi va ta'tillar mehnat huquqiga oiddir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-175",
+    "question": "Qaysi qatorda huquq sohalari ko'rsatilgan?",
+    "options": [
+      "Konstitutsiyaviy, fuqarolik, jinoyat, mehnat, oila huquqi",
+      "Gipoteza, dispozitsiya, sanksiya",
+      "Qonun, farmon, qaror",
+      "Sud, prokuratura, advokatura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Konstitutsiyaviy, fuqarolik, jinoyat, mehnat va oila huquqi — huquq sohalaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-176",
+    "question": "Huquqning bosh (asosiy) sohasi qaysi?",
+    "options": [
+      "Mehnat huquqi",
+      "Oila huquqi",
+      "Konstitutsiyaviy huquq",
+      "Yer huquqi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Konstitutsiyaviy huquq butun huquq tizimining bosh yetakchi sohasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-177",
+    "question": "Oldi-sotdi shartnomasi qaysi huquq sohasiga oid?",
+    "options": [
+      "Fuqarolik huquqiga",
+      "Jinoyat huquqiga",
+      "Harbiy huquqqa",
+      "Tibbiy huquqqa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oldi-sotdi, ijara va meros shartnomalari fuqarolik huquqi doirasiga kiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-178",
+    "question": "Mayda bezorilik qaysi huquq sohasi bilan baholanadi?",
+    "options": [
+      "Fuqarolik huquqi",
+      "Ma'muriy huquq",
+      "Oila huquqi",
+      "Mehnat huquqi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mayda bezorilik ma'muriy huquqbuzarlik bo'lib, ma'muriy huquq bilan tartibga solinadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-179",
+    "question": "Jinoyatlar uchun jazolar qayerda belgilangan?",
+    "options": [
+      "Darslikda",
+      "Gazetada",
+      "Lug'atda",
+      "Jinoyat kodeksida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Barcha jinoyat tarkiblari va ularga qo'llanadigan jazolar Jinoyat kodeksida belgilangan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-180",
+    "question": "Huquq tizimi nima?",
+    "options": [
+      "Sud binolari majmui",
+      "Qonun saqlanadigan xona",
+      "Advokatlar ro'yxati",
+      "Huquq normalari va sohalarining o'zaro bog'liq birligi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huquq tizimi — huquq normalari, institutlari va sohalarining bir-biri bilan uzviy bog'langan yaxlit tizimidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 18-mavzu"
+  },
+  {
+    "id": "d8-181",
+    "question": "«Huquqiy munosabat» deb nimaga aytiladi?",
+    "options": [
+      "Do'stlar suhbatiga",
+      "Huquq normalari bilan tartibga solinadigan ijtimoiy munosabatga",
+      "Oilaviy yig'ilishga",
+      "Sport musobaqasiga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquqiy munosabat — huquq normalari bilan tartibga solinadigan munosabatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-182",
+    "question": "Huquqiy munosabatning elementlari qaysilar?",
+    "options": [
+      "Subyekt, obyekt, mazmun",
+      "Gipoteza, dispozitsiya, sanksiya",
+      "Qonun, farmon, qaror",
+      "Boshi, o'rtasi, oxiri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquqiy munosabat 3 elementdan iborat: subyekt, obyekt va mazmun.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-183",
+    "question": "Kitob oldi-sotdisida huquqiy munosabatning obyekti nima?",
+    "options": [
+      "Sotuvchi",
+      "Xaridor",
+      "Kitob (oldi-sotdi predmeti)",
+      "Do'kon eshigi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Munosabat nima ustida (qaysi moddiy ne'mat ustida) vujudga kelsa, o'sha obyekt hisoblanadi (kitob).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-184",
+    "question": "To'liq muomala layoqati necha yoshdan boshlanadi?",
+    "options": [
+      "14 yoshdan",
+      "16 yoshdan",
+      "17 yoshdan",
+      "18 yoshdan"
+    ],
+    "correctIndex": 3,
+    "explanation": "To'liq muomala layoqati 18 yoshga to'lganda boshlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-185",
+    "question": "Jinoiy javobgarlik necha yoshdan boshlanadi?",
+    "options": [
+      "18 yoshdan",
+      "16 yoshdan (ayrim jinoyatlar uchun 14 yoshdan)",
+      "20 yoshdan",
+      "10 yoshdan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Umumiy qoidaga ko'ra 16 yoshdan, o'ta og'ir jinoyatlar uchun 14 yoshdan boshlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-186",
+    "question": "Huquqiy munosabat subyektlari kimlar?",
+    "options": [
+      "Faqat sudyalar",
+      "Munosabat ishtirokchilari (shaxslar, tashkilotlar)",
+      "Faqat vazirlar",
+      "Faqat deputatlar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subyektlar — munosabat ishtirokchilari bo'lgan jismoniy va yuridik shaxslardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-187",
+    "question": "Huquqiy munosabatning mazmunini nima tashkil qiladi?",
+    "options": [
+      "Ishtirokchilarning huquq va burchlari",
+      "Ishtirokchilarning yoshi",
+      "Ishtirokchilarning bo'yi",
+      "Ishtirokchilarning ismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquqiy munosabat mazmuni — tomonlarning subyektiv huquqlari va yuridik majburiyatlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-188",
+    "question": "Subyektiv huquq nima?",
+    "options": [
+      "Majburiy to'lov",
+      "Jazo chorasi",
+      "Mumkin bo'lgan xatti-harakat o'lchovi",
+      "Taqiq"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subyektiv huquq — shaxsga qonun bilan berilgan mumkin bo'lgan xatti-harakat o'lchovi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-189",
+    "question": "Yuridik majburiyat nima?",
+    "options": [
+      "Xohishga ko'ra ish",
+      "Dam olish",
+      "Mukofot",
+      "Zarur (shart) bo'lgan xatti-harakat o'lchovi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yuridik majburiyat — shaxs bajarishi shart bo'lgan zarur xatti-harakat o'lchovidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-190",
+    "question": "Huquqiy layoqat qachon paydo bo'ladi?",
+    "options": [
+      "18 yoshdan",
+      "16 yoshdan",
+      "Tug'ilgan paytdan boshlab",
+      "25 yoshdan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquq layoqati inson tug'ilgan paytdan boshlanadi va vafot etishi bilan tugaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 19-mavzu"
+  },
+  {
+    "id": "d8-191",
+    "question": "O'zbekistonda asosiy huquq manbai nima?",
+    "options": [
+      "Odatlar",
+      "Diniy qoidalar",
+      "Normativ-huquqiy hujjatlar (qonunlar)",
+      "Sudyalar fikri"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekistonda asosiy huquq manbai normativ-huquqiy hujjatlardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-192",
+    "question": "Eng oliy yuridik kuchga ega hujjat qaysi?",
+    "options": [
+      "Konstitutsiya",
+      "Vazirlik buyrug'i",
+      "Mahalla qarori",
+      "Maktab nizomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Konstitutsiya oliy yuridik kuchga ega va to'g'ridan-to'g'ri amal qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-193",
+    "question": "Qaysi davlatlarda sud pretsedenti huquq manbai hisoblanadi?",
+    "options": [
+      "O'zbekiston, Tojikiston",
+      "Buyuk Britaniya, AQSH, Kanada",
+      "Fransiya, Germaniya",
+      "Yaponiya, Xitoy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anglosakson huquq tizimida (Britaniya, AQSH, Kanada) sud pretsedenti asosiy manbadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-194",
+    "question": "Milliy qonun bilan xalqaro shartnoma o'rtasida tafovut bo'lsa, qaysi biri ustuvor?",
+    "options": [
+      "Milliy qonun",
+      "Mahalliy qaror",
+      "Idoraviy buyruq",
+      "Xalqaro shartnoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Xalqaro shartnoma qoidalari milliy qonunchilikdan ustun kuchga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-195",
+    "question": "Qonunosti hujjatlariga qaysi biri misol bo'ladi?",
+    "options": [
+      "Konstitutsiya",
+      "Kodeks",
+      "Prezident farmoni, hukumat qarori",
+      "Xalqaro konvensiya"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prezident farmonlari va Hukumat qarorlari qonunosti hujjatlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-196",
+    "question": "Qonunlar qanday asosiy turlarga bo'linadi?",
+    "options": [
+      "Katta va kichik qonunlarga",
+      "Eski va yangi qonunlarga",
+      "Konstitutsiya, konstitutsiyaviy qonunlar, oddiy qonunlarga",
+      "Yozma va og'zaki qonunlarga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qonunlar Konstitutsiya, konstitutsiyaviy qonunlar va oddiy qonunlarga bo'linadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-197",
+    "question": "Konstitutsiyaviy qonunga qaysi biri misol bo'ladi?",
+    "options": [
+      "«Qonunchilik palatasi to'g'risida»gi qonun",
+      "Maktab ichki tartib qoidalari",
+      "Mahalla qarori",
+      "Sinf sardori buyrug'i"
+    ],
+    "correctIndex": 0,
+    "explanation": "Palatalar faoliyatiga oid qonunlar konstitutsiyaviy qonunlar turkumiga kiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-198",
+    "question": "«Xalqaro shartnomalar to'g'risida»gi qonun qachon qabul qilingan?",
+    "options": [
+      "1991-yilda",
+      "1995-yilda",
+      "2000-yilda",
+      "2019-yilda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Darslik ma'lumotiga ko'ra, «Xalqaro shartnomalar to'g'risida»gi qonun 1995-yilda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-199",
+    "question": "Normativ-huquqiy hujjatlarning xususiyati qaysi?",
+    "options": [
+      "Faqat bir shaxsga tegishliligi",
+      "Bir martalik ekanligi",
+      "Maxfiy ekanligi",
+      "Umumiy xususiyatga va huquq normalariga egaligi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Normativ-huquqiy hujjatlar umummajburiy bo'lib, ko'p marotaba qo'llanilish xususiyatiga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  },
+  {
+    "id": "d8-200",
+    "question": "O'zbekiston xalqaro huquqning qanday normalarini tan oladi?",
+    "options": [
+      "Umum'e'tirof etilgan prinsiplar va normalarni",
+      "Faqat savdo qoidalarini",
+      "Faqat sport qoidalarini",
+      "Hech qanday normalarni"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston xalqaro huquqning umum e'tirof etilgan prinsiplari va normalarini tan oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 20-mavzu"
+  }
+]

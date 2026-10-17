@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "d8-1",
+    "question": "Mustaqil davlatning huquqlariga qaysi biri kiradi?",
+    "options": [
+      "O'z pul birligini muomalaga chiqarish",
+      "Boshqa davlat qonunlarini bekor qilish",
+      "Boshqa davlat hududini boshqarish",
+      "Xorijiy davlatlar ichki ishlariga aralashish"
+    ],
+    "correctIndex": 0,
+    "explanation": "Milliy valyuta – mustaqillik belgisi hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-2",
+    "question": "«Inson huquqlari umumjahon deklaratsiyasi» qachon qabul qilingan?",
+    "options": [
+      "1945-yilda",
+      "1991-yilda",
+      "1948-yilda",
+      "2000-yilda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deklaratsiya 1948-yil 10-dekabrda BMT Bosh Assambleyasi tomonidan qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-3",
+    "question": "Darslikka ko'ra, davlat faoliyatining markaziga nima qo'yilgan?",
+    "options": [
+      "Tashqi qarzlarni ko'paytirish",
+      "Inson manfaatlari",
+      "Harbiy qudrat",
+      "Tabiiy boyliklar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inson manfaatlari va inson qadri davlat faoliyatining markaziga qo'yilgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-4",
+    "question": "O'zbekiston Respublikasining davlat tili qaysi?",
+    "options": [
+      "Rus tili",
+      "Ingliz tili",
+      "Qoraqalpoq tili",
+      "O'zbek tili"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'zbekiston Respublikasining davlat tili — o'zbek tili (Konstitutsiya 4-modda).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-5",
+    "question": "Mustaqil davlat o'zining qaysi ramzlariga ega bo'lish huquqiga ega?",
+    "options": [
+      "Faqat bayrog'iga",
+      "Bayrog'i, gerbi va madhiyasiga",
+      "Faqat pul birligiga",
+      "Faqat poytaxtiga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mustaqil davlat o'z bayrog'i, gerbi va madhiyasiga ega bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-6",
+    "question": "Mustaqil davlat belgilariga qaysi biri kiradi?",
+    "options": [
+      "Boshqa davlatga qaramlik",
+      "O'z hududi va chegarasiga egalik",
+      "Armiyasiz yashash",
+      "Qonunsiz boshqaruv"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hudud va chegara — mustaqillikning eng muhim belgilaridandir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-7",
+    "question": "O'zbekiston mustaqil davlat sifatida qanday hujjatlarni qabul qilish huquqiga ega?",
+    "options": [
+      "Faqat buyruqlar",
+      "Faqat xatlar",
+      "O'z Konstitutsiyasi, kodekslari va qonunlarini",
+      "Faqat e'lonlar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mustaqil davlat o'z qonunlarini, Konstitutsiyasini va kodekslarini qabul qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-8",
+    "question": "Shaxslarni fuqarolikka qabul qilish huquqi kimga tegishli?",
+    "options": [
+      "Mustaqil davlatga",
+      "Mahallaga",
+      "Maktabga",
+      "Firmaga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuqarolikka qabul qilish mustaqil davlatning mutlaq huquqidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-9",
+    "question": "Mustaqil davlat qaysi hokimiyatlarning faoliyatini yo'lga qo'yadi?",
+    "options": [
+      "Faqat sud hokimiyatining",
+      "Faqat ijro hokimiyatining",
+      "Faqat qonun chiqaruvchi hokimiyatning",
+      "Qonun chiqaruvchi, ijro etuvchi va sud hokimiyatlarining"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mustaqil davlatda hokimiyatlar bo'linishi asosida uchala hokimiyat faoliyati yo'lga qo'yiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-10",
+    "question": "Referendum o'tkazish huquqi kimga tegishli?",
+    "options": [
+      "Faqat sudga",
+      "Mustaqil davlatga",
+      "Faqat siyosiy partiyaga",
+      "Faqat OAVga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Referendum o'tkazish mustaqil davlat va uning xalqiga tegishli huquqdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 1-mavzu"
+  },
+  {
+    "id": "d8-11",
+    "question": "«Shaxs» deb kimga aytiladi?",
+    "options": [
+      "Har qanday tirik organizmga",
+      "Har qanday alohida odamga",
+      "Boy ma'naviy dunyoga, bilim va malakaga ega shakllangan insonga",
+      "Faqat davlat rahbariga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shaxs — shakllangan, ma'naviyatli, bilim va malakaga ega insondir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-12",
+    "question": "«Individ» deb kimga aytiladi?",
+    "options": [
+      "Alohida odamga (ayol yoki erkak, yosh yoki qari)",
+      "Faqat buyuk sarkardalarga",
+      "Faqat olimlarga",
+      "Faqat sportchilarga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Individ — har qanday alohida odam (yoshi va jinsidan qat'i nazar).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-13",
+    "question": "Inson hayvonlardan nimasi bilan farq qiladi?",
+    "options": [
+      "Tirik tanaga egaligi bilan",
+      "Ongi va aqli bilan",
+      "Ovqatlanishi bilan",
+      "Ko'payishi bilan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ong va aql — insonning hayvonlardan asosiy farqli belgisidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-14",
+    "question": "Qaysi qatorda buyuk shaxslar nomi keltirilgan?",
+    "options": [
+      "Faqat zamonaviy aktyorlar",
+      "Faqat sportchilar",
+      "Faqat tadbirkorlar",
+      "Amir Temur, Jaloliddin Manguberdi, Alisher Navoiy, Bobur"
+    ],
+    "correctIndex": 3,
+    "explanation": "Darslikda to'rtala buyuk ajdodimiz nomi ulug'langan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-15",
+    "question": "Insonning ma'naviy boyligiga nimalar kiradi?",
+    "options": [
+      "Pul mablag'lari",
+      "Uy-joy va mashinalar",
+      "Dunyoqarashi, odobi, madaniyati",
+      "Yer maydonlari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ma'naviy boylik — dunyoqarash, odob va madaniyatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-16",
+    "question": "«Inson» deb kimga aytiladi?",
+    "options": [
+      "Ongli, tabiatdagi eng rivojlangan mavjudotga",
+      "Faqat kuchli odamlarga",
+      "Faqat boy odamlarga",
+      "Faqat yosh bolalarga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inson — ongli, tabiatdagi eng rivojlangan oliy mavjudot.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-17",
+    "question": "Shaxsga xos xususiyat qaysi?",
+    "options": [
+      "Faqat bo'yi",
+      "Faqat vazni",
+      "Orzu-intilishlar, bilim va boy ma'naviy dunyo",
+      "Faqat ko'z rangi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shaxs orzu-intilishlar, bilim va boy ma'naviyat egasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-18",
+    "question": "Inson kapitalining asosi nima hisoblanadi?",
+    "options": [
+      "Pul mablag'lari",
+      "Insonning ma'naviy boyligi",
+      "Binolar",
+      "Mashinalar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inson kapitalining asosi — insonning ma'naviy boyligi va bilimidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-19",
+    "question": "Amalga oshirilayotgan islohotlarning markaziga kim qo'yilgan?",
+    "options": [
+      "Texnika",
+      "Binolar",
+      "Mol-mulk",
+      "Shaxs va uning manfaatlari"
+    ],
+    "correctIndex": 3,
+    "explanation": "Islohotlar markazida shaxs va uning manfaatlari turadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-20",
+    "question": "Shaxsning shakllanishiga davlatning qaysi siyosati kuchli ta'sir qiladi?",
+    "options": [
+      "Tashqi savdo siyosati",
+      "Soliq siyosati",
+      "Pul-kredit siyosati",
+      "Yosh avlod ta'lim-tarbiyasiga qaratilgan siyosat"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ta'lim-tarbiya siyosati shaxsni kamolga yetkazadi va shakllantiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 2-mavzu"
+  },
+  {
+    "id": "d8-21",
+    "question": "«Jamiyat» so'zi nimani anglatadi?",
+    "options": [
+      "Forscha «shahar» degani",
+      "Arabcha «jamoa, jamlangan, birlashgan» degani",
+      "Lotincha «qonun» degani",
+      "Yunoncha «davlat» degani"
+    ],
+    "correctIndex": 1,
+    "explanation": "«Jamiyat» — arabcha «jamoa, jamlangan, birlashgan» degan ma'noni bildiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-22",
+    "question": "«Jamiyat» deb nimaga aytiladi?",
+    "options": [
+      "O'z ehtiyoj va manfaatlariga ko'ra birlashgan kishilardan iborat jamoaga",
+      "Faqat bitta oilaga",
+      "Faqat davlat xizmatchilariga",
+      "Oddiy odamlar olomoniga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jamiyat — manfaatlar asosida birlashgan kishilardan iborat jamoa.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-23",
+    "question": "Qaysi fikr to'g'ri?",
+    "options": [
+      "Har qanday jamoa jamiyatdir",
+      "Jamiyat va jamoa mutlaqo aloqasiz tushunchalar",
+      "Har qanday jamiyat jamoa, lekin har qanday jamoa jamiyat emas",
+      "Jamoa jamiyatdan keng tushuncha"
+    ],
+    "correctIndex": 2,
+    "explanation": "Har qanday jamiyat jamoa, lekin har qanday jamoa jamiyat emas.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-24",
+    "question": "Ibtidoiy davrda odamlar ilk bora qanday birliklarga birlashgan?",
+    "options": [
+      "Viloyatlarga",
+      "Partiyalarga",
+      "Vazirliklarga",
+      "To'da, urug' jamoalari va qabilalarga"
+    ],
+    "correctIndex": 3,
+    "explanation": "To'da, urug' va qabila — insonlarning ilk jamoaviy birliklaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-25",
+    "question": "Jamiyat a'zolari haqida qaysi fikr to'g'ri?",
+    "options": [
+      "Odamlar boy yoki kambag'al bo'lishidan qat'i nazar jamiyat a'zosi hisoblanadi",
+      "Faqat boy odamlar jamiyat a'zosi hisoblanadi",
+      "Jamiyat a'zosi bo'lish uchun ruxsatnoma kerak",
+      "Bolalar jamiyat a'zosi hisoblanmaydi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barcha odamlar boy yoki kambag'al bo'lishidan qat'i nazar jamiyat a'zosidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-26",
+    "question": "Keng ma'nodagi jamiyatga qaysi biri misol bo'ladi?",
+    "options": [
+      "Bitta to'garak",
+      "Butun xalq",
+      "Bitta oila",
+      "Bitta firma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keng ma'noda jamiyat butun xalqni yoki insoniyatni anglatadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-27",
+    "question": "Jamiyat qanday tuzilma hisoblanadi?",
+    "options": [
+      "Murakkab ijtimoiy tuzilma",
+      "Oddiy tosh uyumi",
+      "Mexanik soat",
+      "Bo'sh bino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jamiyat — ko'p qirrali murakkab ijtimoiy tuzilmadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-28",
+    "question": "Jamiyat vaqt o'tishi bilan qanday bo'ladi?",
+    "options": [
+      "Hech o'zgarmaydi",
+      "Faqat kichrayib boradi",
+      "Muttasil o'zgarib, rivojlanib boradi",
+      "Yo'qolib ketadi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jamiyat doimo muttasil o'zgarib va rivojlanib boradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-29",
+    "question": "Mehnat taqsimoti nimaga olib kelgan?",
+    "options": [
+      "Yozuvning paydo bo'lishiga",
+      "Pulning paydo bo'lishiga",
+      "Shaharlarning yo'qolishiga",
+      "Odamlar orasidagi tabaqalashuvga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mehnat taqsimoti jamiyatda ijtimoiy tabaqalashuvga olib kelgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-30",
+    "question": "Inson va jamiyat haqida qaysi fikr to'g'ri?",
+    "options": [
+      "Inson jamiyatsiz yaxshi yashaydi",
+      "Jamiyat insotsiz, inson esa jamiyatsiz mavjud bo'la olmaydi",
+      "Jamiyat odamlarga kerak emas",
+      "Inson jamiyatga zararli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inson va jamiyat bir-biridan ajralmas holda mavjuddir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 3-mavzu"
+  },
+  {
+    "id": "d8-31",
+    "question": "O'zbekiston hududidagi ilk davlatlar qaysilar?",
+    "options": [
+      "Qadimgi Xorazm va Qadimgi Baqtriya",
+      "Yunon-Baqtriya va Kushon",
+      "Temuriylar va Shayboniylar",
+      "Qoraxoniylar va G'aznaviylar"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston hududidagi ilk davlatlar Qadimgi Xorazm va Qadimgi Baqtriya hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-32",
+    "question": "«Davlat» deb nimaga aytiladi?",
+    "options": [
+      "Odamlar olomoniga",
+      "Jamiyatning shakllangan siyosiy institutiga",
+      "Faqat armiyaga",
+      "Faqat sudlarga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Davlat — jamiyatning siyosiy jihatdan shakllangan asosiy boshqaruv institutidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-33",
+    "question": "Birinchi sivilizatsiyalashgan davlatlar qayerda paydo bo'lgan?",
+    "options": [
+      "Yevropada",
+      "Amerikada",
+      "Qadimgi Sharqda",
+      "Avstraliyada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ilk sivilizatsiyalashgan davlatlar Qadimgi Sharqda vujudga kelgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-34",
+    "question": "Davlat insoniyat tarixining qaysi davrida paydo bo'lgan?",
+    "options": [
+      "Inson paydo bo'lishi bilanoq",
+      "Yozuv kashf etilishidan oldin har doim mavjud bo'lgan",
+      "Faqat XX asrda",
+      "Jamiyat taraqqiyotining muayyan bosqichida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Davlat jamiyat taraqqiyotining ma'lum bir bosqichida paydo bo'lgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-35",
+    "question": "Quyidagilardan qaysi biri davlatning belgisi hisoblanadi?",
+    "options": [
+      "Yagona din",
+      "O'z hududi va aholisiga egalik",
+      "Yagona kiyim",
+      "Yagona kasb"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hudud, aholi va soliq tizimi davlatning asosiy belgilaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-36",
+    "question": "Qadimgi Xorazm va Qadimgi Baqtriya davlatlari qachon paydo bo'lgan?",
+    "options": [
+      "Miloddan avvalgi VII–VI asrlarda",
+      "XIX asrda",
+      "XX asrda",
+      "XV asrda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qadimgi Xorazm va Baqtriya mil.avv. VII–VI asrlarda vujudga kelgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-37",
+    "question": "Dunyodagi birinchi sivilizatsiyalashgan davlatlar qachon paydo bo'lgan?",
+    "options": [
+      "Milodiy XV asrda",
+      "Miloddan avvalgi IV–III ming yilliklarda",
+      "Milodiy XIX asrda",
+      "Milodiy XX asrda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dunyodagi birinchi davlatlar mil.avv. IV–III ming yilliklarda paydo bo'lgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-38",
+    "question": "Markaziy Osiyo hududida ilk davlat uyushmalari qachon paydo bo'la boshlagan?",
+    "options": [
+      "Milodiy X asrda",
+      "Miloddan avvalgi V ming yillikda",
+      "Miloddan avvalgi I ming yillikning boshlarida",
+      "Milodiy XVIII asrda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Markaziy Osiyoda ilk davlat uyushmalari mil.avv. I ming yillikning boshlarida paydo bo'lgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-39",
+    "question": "Qabila ishlarining barcha a'zolar ishtirokida birgalikda hal qilinishi nima hisoblangan?",
+    "options": [
+      "Monarxiya",
+      "Federatsiya",
+      "Konfederatsiya",
+      "Demokratiyaning ilk sodda ko'rinishi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Birgalikda boshqaruv — ibtidoiy demokratiyaning dastlabki ko'rinishidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-40",
+    "question": "Davlat va jamiyat tushunchalari bir xilmi?",
+    "options": [
+      "Ha, mutlaqo bir xil",
+      "Qisman bir xil",
+      "Yo'q, davlat – jamiyatning shakllangan siyosiy instituti",
+      "Ular o'rtasida hech qanday aloqa yo'q"
+    ],
+    "correctIndex": 2,
+    "explanation": "Davlat jamiyatning siyosiy institutidir, jamiyat esa ancha keng tushuncha.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 4-mavzu"
+  },
+  {
+    "id": "d8-41",
+    "question": "Davlat funksiyalari qanday turlarga bo'linadi?",
+    "options": [
+      "Ichki va tashqi funksiyalarga",
+      "Katta va kichik funksiyalarga",
+      "Qadimgi va yangi funksiyalarga",
+      "Asosiy va qo'shimcha funksiyalarga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat funksiyalari ichki va tashqi yo'nalishlarga bo'linadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-42",
+    "question": "Qaysi biri davlatning ICHKI funksiyasiga kiradi?",
+    "options": [
+      "Elchixonalar ochish",
+      "Ta'lim tizimini qo'llab-quvvatlash",
+      "Xalqaro shartnomalar tuzish",
+      "Tashqi savdo qilish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ta'lim, sog'liqni saqlash va ijtimoiy himoya davlatning ichki funksiyasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-43",
+    "question": "Qaysi biri davlatning TASHQI funksiyasiga kiradi?",
+    "options": [
+      "Soliq yig'ish",
+      "Pensiya to'lash",
+      "Mamlakat mudofaasini ta'minlash",
+      "Ko'chalarni ta'mirlash"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mamlakat mudofaasi va xavfsizligi davlatning tashqi funksiyasiga kiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-44",
+    "question": "Pensiya va nafaqalar to'lash davlatning qaysi sohadagi vazifasi?",
+    "options": [
+      "Siyosiy",
+      "Moliyaviy",
+      "Madaniy",
+      "Ijtimoiy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pensiya va nafaqalar to'lash davlatning ijtimoiy vazifasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-45",
+    "question": "Soliq tizimini yuritish davlatning qaysi sohadagi vazifasi?",
+    "options": [
+      "Ijtimoiy",
+      "Moliyaviy",
+      "Madaniy",
+      "Harbiy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soliq tizimini yuritish moliyaviy-iqtisodiy vazifa hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-46",
+    "question": "Davlat funksiyalari deganda nima tushuniladi?",
+    "options": [
+      "Davlat faoliyatining asosiy yo'nalishlari",
+      "Bayramlar jadvali",
+      "Sport musobaqalari",
+      "Konsert dasturlari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat funksiyalari — uning faoliyatining asosiy yo'nalishlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-47",
+    "question": "Ichki funksiyalar qayerda amalga oshiriladi?",
+    "options": [
+      "Chet ellarda",
+      "Mamlakat ichida",
+      "Kosmosda",
+      "Okeanda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ichki funksiyalar bevosita mamlakat ichkarisida amalga oshiriladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-48",
+    "question": "Tashqi funksiyalar qayerda amalga oshiriladi?",
+    "options": [
+      "Faqat poytaxtda",
+      "Faqat qishloqlarda",
+      "Mamlakat tashqarisida, xalqaro maydonda",
+      "Faqat maktablarda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tashqi funksiyalar xalqaro maydonda boshqa davlatlar bilan munosabatlarda bajariladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-49",
+    "question": "Madaniy-ma'rifiy vazifaga qaysi biri misol bo'ladi?",
+    "options": [
+      "Soliq yig'ish",
+      "Mamlakat mudofaasi",
+      "Armiyani qurollantirish",
+      "Milliy madaniyat va san'atni rivojlantirish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Milliy madaniyat va san'atni rivojlantirish madaniy-ma'rifiy vazifadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-50",
+    "question": "Siyosiy-huquqiy vazifaga qaysi biri misol bo'ladi?",
+    "options": [
+      "Narx belgilash",
+      "Qonuniylik va tartibni ta'minlash",
+      "Paxta ekish",
+      "Yo'l qurish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qonuniylik va huquq-tartibotni ta'minlash siyosiy-huquqiy vazifadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 5-mavzu"
+  },
+  {
+    "id": "d8-51",
+    "question": "Boshqaruv shakliga ko'ra davlatlar qanday turlarga bo'linadi?",
+    "options": [
+      "Katta va kichik davlatlarga",
+      "Monarxiya va respublikaga",
+      "Sharq va G'arb davlatlariga",
+      "Boy va kambag'al davlatlarga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Boshqaruv shakliga ko'ra monarxiya va respublika turlariga bo'linadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-52",
+    "question": "«Monarxiya» deb qanday davlatga aytiladi?",
+    "options": [
+      "Oliy hokimiyat yakka hokim (monarx) qo'lida bo'lgan davlatga",
+      "Hokimiyat xalq tomonidan saylanadigan davlatga",
+      "Hokimiyati bo'lmagan davlatga",
+      "Hududi bo'lmagan davlatga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Monarxiya — oliy davlat hokimiyati bir shaxs qo'lida merosiy bo'lgan boshqaruv shakli.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-53",
+    "question": "«Respublika» deb qanday davlatga aytiladi?",
+    "options": [
+      "Podsho boshqaradigan davlatga",
+      "Hech kim boshqarmaydigan davlatga",
+      "Oliy hokimiyat saylab qo'yiladigan organlar qo'lida bo'lgan davlatga",
+      "Boshqa davlatga qaram davlatga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Respublikada oliy hokimiyat organlari xalq tomonidan saylanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-54",
+    "question": "O'zbekiston boshqaruv shakliga ko'ra qanday davlat?",
+    "options": [
+      "Monarxiya",
+      "Konfederatsiya",
+      "Mustamlaka",
+      "Respublika"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'zbekiston — boshqaruvning respublika shakliga ega bo'lgan davlat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-55",
+    "question": "Mutlaq monarxiyaga qaysi davlat misol bo'ladi?",
+    "options": [
+      "Buyuk Britaniya",
+      "Saudiya Arabistoni",
+      "AQSH",
+      "Germaniya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saudiya Arabistoni mutlaq monarxiya boshqaruviga misoldir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-56",
+    "question": "Davlatlar necha asosga ko'ra turlarga bo'linadi?",
+    "options": [
+      "2 ta",
+      "3 ta: boshqaruv shakli, hududiy tuzilish, siyosiy tartib",
+      "5 ta",
+      "10 ta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Davlatlar 3 ta asosga ko'ra tasniflanadi: boshqaruv shakli, tuzilishi va siyosiy tartiboti.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-57",
+    "question": "Boshqaruv shakli nimani bildiradi?",
+    "options": [
+      "Davlat hokimiyatining tashkil topish usulini",
+      "Xaritaning shaklini",
+      "Bayroqning rangini",
+      "Gerbning ko'rinishini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Boshqaruv shakli oliy hokimiyatning qanday tashkil topishi va vujudga kelish usulidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-58",
+    "question": "Mutlaq monarxiyada monarx hokimiyati qanday bo'ladi?",
+    "options": [
+      "Parlament bilan cheklangan",
+      "Xalq tomonidan cheklangan",
+      "Hech qanday idora bilan cheklanmagan",
+      "Sud tomonidan cheklangan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mutlaq monarxiyada hokimiyat cheklovsiz bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-59",
+    "question": "Respublikalar qanday turlarga bo'linadi?",
+    "options": [
+      "Katta va kichik respublikalarga",
+      "Shimoliy va janubiy respublikalarga",
+      "Qadimgi va yangi respublikalarga",
+      "Prezidentlik va parlamentar respublikaga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Respublikalar prezidentlik, parlamentar va aralash turlarga bo'linadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-60",
+    "question": "Cheklangan (parlamentar) monarxiyaga qaysi davlat misol bo'ladi?",
+    "options": [
+      "Saudiya Arabistoni",
+      "Buyuk Britaniya",
+      "AQSH",
+      "Germaniya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buyuk Britaniya parlamentar (cheklangan) monarxiyadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 6-mavzu"
+  },
+  {
+    "id": "d8-61",
+    "question": "Tuzilish shakliga ko'ra davlatlar qanday turlarga bo'linadi?",
+    "options": [
+      "Monarxiya va respublikaga",
+      "Demokratik va nodemokratik davlatlarga",
+      "Unitar, federativ va konfederativ davlatlarga",
+      "Katta, o'rta va kichik davlatlarga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Davlat tuzilishi shakllari: unitar, federativ va konfederativ.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-62",
+    "question": "O'zbekiston tuzilish shakliga ko'ra qanday davlat?",
+    "options": [
+      "Unitar davlat",
+      "Federativ davlat",
+      "Konfederatsiya",
+      "Imperiya"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston — unitar (yaxlit) davlatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-63",
+    "question": "Federativ davlatga qaysi biri misol bo'ladi?",
+    "options": [
+      "O'zbekiston",
+      "AQSH",
+      "Polsha",
+      "Yaponiya"
+    ],
+    "correctIndex": 1,
+    "explanation": "AQSH, Rossiya, Germaniya — federativ davlatlar hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-64",
+    "question": "Konfederativ birlashmaga qaysi biri misol bo'ladi?",
+    "options": [
+      "O'zbekiston",
+      "Rossiya",
+      "Germaniya",
+      "Yevropa Ittifoqi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yevropa Ittifoqi konfederativ xususiyatlarga ega davlatlar birlashmasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-65",
+    "question": "Unitar davlatning belgisi qaysi?",
+    "options": [
+      "Subyektlarning o'z Konstitutsiyasiga egaligi",
+      "Bir nechta pul birligining amal qilishi",
+      "Yagona Konstitutsiya va yagona pul birligining mavjudligi",
+      "Bir nechta armiyaning mavjudligi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Unitar davlatda yagona Konstitutsiya, yagona qonunchilik va yagona pul birligi bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-66",
+    "question": "Federativ davlat qanday davlat?",
+    "options": [
+      "Oddiy yagona davlat",
+      "Vaqtinchalik ittifoq",
+      "Bir necha subyekt birlashuvidan hosil bo'lgan murakkab davlat",
+      "Hududsiz davlat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Federatsiya — bir necha davlat tuzilmasi yoki subyektlaridan tashkil topgan murakkab davlat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-67",
+    "question": "Konfederatsiya nima?",
+    "options": [
+      "Mustaqil davlatlarning ma'lum maqsadlardagi ittifoqi",
+      "Yagona markazlashgan davlat",
+      "Bitta shahar-davlat",
+      "Qabila birlashmasi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Konfederatsiya — mustaqil davlatlarning ma'lum maqsadlarda tuzgan ittifoqidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-68",
+    "question": "Qaysi qatorda federativ davlatlar ko'rsatilgan?",
+    "options": [
+      "O'zbekiston, Polsha",
+      "AQSH, Rossiya, Germaniya",
+      "Yaponiya, Fransiya",
+      "Polsha, Vengriya"
+    ],
+    "correctIndex": 1,
+    "explanation": "AQSH, Rossiya, Germaniya federativ davlatlar hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-69",
+    "question": "Qaysi qatorda unitar davlatlar ko'rsatilgan?",
+    "options": [
+      "AQSH, Germaniya",
+      "Rossiya, Braziliya",
+      "AQSH, Meksika",
+      "O'zbekiston, Polsha, Vengriya"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'zbekiston, Polsha va Vengriya unitar davlatlardir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-70",
+    "question": "Rossiya nega «Federatsiya» deb ataladi?",
+    "options": [
+      "Yagona markazdan boshqarilgani uchun",
+      "Tarkibida subyektlar birlashgan murakkab davlat bo'lgani uchun",
+      "Hududiy bo'linishi yo'qligi uchun",
+      "Vaqtinchalik ittifoq bo'lgani uchun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rossiya tarkibida respublikalar, o'lkalar va viloyatlar subyekt sifatida birlashgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 7-mavzu"
+  },
+  {
+    "id": "d8-71",
+    "question": "«Siyosiy tartibot» deb nimaga aytiladi?",
+    "options": [
+      "Hududning bo'linish tartibiga",
+      "Davlat hokimiyatini amalga oshirish usullari va uslublari tizimiga",
+      "Xodimlarning ish jadvaliga",
+      "Saylov qoidalariga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Siyosiy tartibot — hokimiyatni amalga oshirish usul va vositalari majmuidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-72",
+    "question": "Demokratik davlatda hokimiyatning yagona manbai kim?",
+    "options": [
+      "Xalq",
+      "Vazirlar",
+      "Sudyalar",
+      "Harbiylar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Demokratik davlatda davlat hokimiyatining birdan bir manbai xalqdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-73",
+    "question": "Nodemokratik tartibotning turlari qaysilar?",
+    "options": [
+      "Monarxiya va respublika",
+      "Unitar va federativ tuzilmalar",
+      "Prezidentlik va parlamentar shakllar",
+      "Avtoritar va totalitar tartibotlar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nodemokratik siyosiy tartibotlar: avtoritar va totalitar rejimlar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-74",
+    "question": "«Davlat organlari» deb nimaga aytiladi?",
+    "options": [
+      "Siyosiy partiyalarga",
+      "Jamoat birlashmalariga",
+      "Xususiy firmalarga",
+      "Davlat boshqaruvini amalga oshiruvchi maxsus idoralarga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Davlat organlari — davlat boshqaruvi va funksiyalarini bajaruvchi maxsus muassasalar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-75",
+    "question": "O'zbekistonda oliy qadriyat nima deb belgilangan?",
+    "options": [
+      "Oltin zaxiralari",
+      "Neft va gaz",
+      "Paxta hosili",
+      "Inson, uning hayoti, erkinligi va huquqlari"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'zbekistonda inson, uning hayoti, erkinligi, sha'ni va qadr-qimmati oliy qadriyatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-76",
+    "question": "Siyosiy tartibot qanday turlarga bo'linadi?",
+    "options": [
+      "Katta va kichik tartibotlarga",
+      "Demokratik va nodemokratik tartibotlarga",
+      "Issiq va sovuq tartibotlarga",
+      "Tez va sekin tartibotlarga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Siyosiy rejimlar asosiy ikki guruhga bo'linadi: demokratik va nodemokratik.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-77",
+    "question": "Davlat mexanizmi nima?",
+    "options": [
+      "Davlat organlarining yagona tizimi",
+      "Zavodlar majmui",
+      "Mashinalar to'plami",
+      "Kompyuterlar majmui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat mexanizmi — davlat vazifalarini amalga oshiruvchi organlar tizimidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-78",
+    "question": "Qaysi biri davlat organlariga kirmaydi?",
+    "options": [
+      "Vazirlik",
+      "Sud",
+      "Siyosiy partiya",
+      "Hokimlik"
+    ],
+    "correctIndex": 2,
+    "explanation": "Siyosiy partiyalar nodavlat jamoat birlashmalaridir, davlat organi emas.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-79",
+    "question": "O'zbekistonda demokratiya nimaga asoslanadi?",
+    "options": [
+      "Yakka mafkuraga",
+      "Harbiy kuchga",
+      "Boylikka",
+      "Umuminsoniy prinsiplarga"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'zbekistonda demokratiya umuminsoniy prinsiplarga tayanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-80",
+    "question": "Nodemokratik tartibotda davlat idoralari qanday ishlaydi?",
+    "options": [
+      "Demokratik tamoyillarga rioya etmasdan",
+      "Oshkoralik bilan",
+      "Xalq nazorati ostida",
+      "Erkin saylovlar asosida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nodemokratik rejimda erkinlik va demokratik tamoyillar cheklanadi yoki e'tiborga olinmaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 8-mavzu"
+  },
+  {
+    "id": "d8-81",
+    "question": "Quyidagilardan qaysi biri fuqarolik jamiyati institutlariga kiradi?",
+    "options": [
+      "Vazirliklar",
+      "Siyosiy partiyalar",
+      "Sudlar",
+      "Harbiy qismlar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Siyosiy partiyalar, NNTlar va OAV fuqarolik jamiyati institutlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-82",
+    "question": "«Fozil odamlar shahri» asarining muallifi kim?",
+    "options": [
+      "Ibn Sino",
+      "Beruniy",
+      "Abu Nasr Forobiy",
+      "Alisher Navoiy"
+    ],
+    "correctIndex": 2,
+    "explanation": "«Fozil odamlar shahri» asari buyuk alloma Abu Nasr Forobiy qalamiga mansub.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-83",
+    "question": "Mahalla qanday organ hisoblanadi?",
+    "options": [
+      "Fuqarolarning o'zini o'zi boshqarish organi",
+      "Sud organi",
+      "Harbiy organ",
+      "Vazirlik"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mahalla fuqarolarning o'zini o'zi boshqarish organi hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-84",
+    "question": "Fuqarolik jamiyati belgilariga qaysi biri kiradi?",
+    "options": [
+      "Senzura",
+      "Yagona majburiy mafkura",
+      "Tadbirkorlikning taqiqlanishi",
+      "Fikrlar xilma-xilligi va axborot erkinligi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fikrlar xilma-xilligi, plyuralizm va axborot erkinligi fuqarolik jamiyatining belgisidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-85",
+    "question": "«NNT» qisqartmasi nimani anglatadi?",
+    "options": [
+      "Nodavlat tijorat tashkilotlari",
+      "Nodavlat notijorat tashkilotlari",
+      "Nodavlat transport tashkilotlari",
+      "Nodavlat tibbiyot tashkilotlari"
+    ],
+    "correctIndex": 1,
+    "explanation": "NNT — Nodavlat notijorat tashkilotlari.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-86",
+    "question": "Fuqarolik jamiyati nima?",
+    "options": [
+      "Faqat harbiylar jamiyati",
+      "Komil fuqarolardan iborat, rivojlangan jamiyat",
+      "Faqat dehqonlar jamiyati",
+      "Davlatsiz yashovchi to'da"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuqarolik jamiyati — komil, o'z huquqlarini biladigan fuqarolardan iborat jamiyat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-87",
+    "question": "Fuqarolik jamiyati belgilariga qaysi biri kiradi?",
+    "options": [
+      "Faqat davlat mulkining mavjudligi",
+      "Mulkchilikning butunlay yo'qligi",
+      "Turli mulkchilik shakllarining mavjudligi",
+      "Mulkni taqsimlashning taqiqlanishi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mulkchilik xilma-xilligi va xususiy mulk daxlsizligi fuqarolik jamiyatining asosidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-88",
+    "question": "Fuqarolik jamiyatida ommaviy axborot vositalari qanday bo'ladi?",
+    "options": [
+      "Nodavlat va mustaqil",
+      "Butunlay taqiqlangan",
+      "Faqat og'zaki",
+      "Faqat xorijiy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuqarolik jamiyatida OAV erkin, mustaqil va xilma-xil bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-89",
+    "question": "Fuqarolik jamiyatida tadbirkorlikka qanday sharoit yaratiladi?",
+    "options": [
+      "Taqiqlanadi",
+      "Cheklanadi",
+      "Soliqqa tortilmaydi, lekin rivojlantirilmaydi",
+      "Keng imkoniyatlar yaratiladi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Erkin iqtisodiyot va tadbirkorlikka keng imkoniyatlar yaratiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-90",
+    "question": "Fuqarolik jamiyatida o'zini o'zi boshqarish organlari qanday bo'ladi?",
+    "options": [
+      "Tugatilgan",
+      "Rivojlangan",
+      "Taqiqlangan",
+      "Mavjud emas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O'zini o'zi boshqarish organlari (mahalla) yuksak rivojlangan bo'ladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 9-mavzu"
+  },
+  {
+    "id": "d8-91",
+    "question": "Huquqiy davlatning eng muhim belgisi qaysi?",
+    "options": [
+      "Hududning kattaligi",
+      "Aholining ko'pligi",
+      "Qonunning ustuvorligi",
+      "Iqlimning qulayligi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquqiy davlatning eng bosh belgisi — qonun ustuvorligidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-92",
+    "question": "Davlat hokimiyati necha tarmoqqa bo'linadi?",
+    "options": [
+      "3 ga",
+      "2 ga",
+      "4 ga",
+      "5 ga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat hokimiyati 3 tarmoqqa bo'linadi: qonun chiqaruvchi, ijro etuvchi va sud.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-93",
+    "question": "Hokimiyat tarmoqlari qaysilar?",
+    "options": [
+      "Siyosiy, iqtisodiy, madaniy",
+      "Qonun chiqaruvchi, ijro etuvchi, sud",
+      "Markaziy, viloyat, tuman",
+      "Oliy, o'rta, quyi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hokimiyat tarmoqlari: qonun chiqaruvchi, ijro etuvchi va sud hokimiyatlari.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-94",
+    "question": "Huquqiy davlatda sud hokimiyati qanday bo'lishi kerak?",
+    "options": [
+      "Hukumatga bo'ysunuvchi",
+      "Partiyalarga bo'ysunuvchi",
+      "Jamoat birlashmalariga bo'ysunuvchi",
+      "Mustaqil"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sud hokimiyati mustaqil bo'lishi va faqat qonunga bo'ysunishi shart.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-95",
+    "question": "«O'zaro mas'uliyat» tamoyili nimani anglatadi?",
+    "options": [
+      "Faqat fuqaro davlat oldida mas'ul",
+      "Hech kim javobgar emas",
+      "Davlat ham, fuqaro ham bir-biri oldida mas'ul",
+      "Faqat vazirlar mas'ul"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquqiy davlatda davlat va fuqaro o'zaro mas'uldirlar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-96",
+    "question": "Huquqiy davlat qanday davlat?",
+    "options": [
+      "Kuchli armiyali davlat",
+      "Boy tabiiy resursli davlat",
+      "Huquq ustuvorligi ta'minlangan, sudi mustaqil demokratik davlat",
+      "Qonunlari bo'lmagan davlat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquqiy davlat — qonun va huquq ustuvorligi ta'minlangan demokratik davlat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-97",
+    "question": "Davlat o'z faoliyatini qanday tamoyillar asosida amalga oshiradi?",
+    "options": [
+      "Ijtimoiy adolat va qonunchilik tamoyillari asosida",
+      "Faqat foyda tamoyili asosida",
+      "Faqat kuch tamoyili asosida",
+      "Tasodif asosida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Davlat o'z faoliyatida adolat va qonuniylik tamoyillariga tayanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-98",
+    "question": "Hokimiyat nega uch tarmoqqa bo'linadi?",
+    "options": [
+      "Davlatni susaytirish uchun",
+      "Hokimiyatning bir qo'lda to'planishiga yo'l qo'ymaslik uchun",
+      "Qonunlar sonini kamaytirish uchun",
+      "Xarajatlarni oshirish uchun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hokimiyatlar bo'linishi vakolatlarning bir organda to'planib qolishini oldini oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-99",
+    "question": "Huquqiy davlatda inson huquqlari qanday bo'ladi?",
+    "options": [
+      "Cheklangan",
+      "Bekor qilingan",
+      "Faqat ayrimlarga tegishli",
+      "Kafolatlangan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huquqiy davlatda inson huquq va erkinliklari to'la kafolatlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  },
+  {
+    "id": "d8-100",
+    "question": "Qaysi belgi huquqiy davlatga xos?",
+    "options": [
+      "Hokimiyatning bir qo'lda to'planishi",
+      "Senzura",
+      "Sudyalar mustaqilligi",
+      "Muxolifatning yo'qligi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sudyalar mustaqilligi huquqiy davlatning asosiy ustunidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 10-mavzu"
+  }
+]

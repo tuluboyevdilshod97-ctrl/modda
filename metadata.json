@@ -1,0 +1,6 @@
+{
+  "name": "MODDA — Huquq platformasi",
+  "description": "Huquq fanidan DTM testlari, O'zbekiston qonunchiligi, moddalar va yuridik testlar platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

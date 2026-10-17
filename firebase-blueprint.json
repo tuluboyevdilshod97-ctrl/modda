@@ -1,0 +1,102 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile document stored in the database",
+      "type": "object",
+      "properties": {
+        "uid": {
+          "type": "string",
+          "maxLength": 128
+        },
+        "displayName": {
+          "type": "string",
+          "maxLength": 128
+        },
+        "email": {
+          "type": "string",
+          "maxLength": 128
+        },
+        "photoURL": {
+          "type": "string",
+          "maxLength": 512
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": ["uid", "email"]
+    },
+    "QuizResult": {
+      "title": "QuizResult",
+      "description": "Historical quiz result for a user session",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "maxLength": 128
+        },
+        "userId": {
+          "type": "string",
+          "maxLength": 128
+        },
+        "date": {
+          "type": "string",
+          "maxLength": 64
+        },
+        "mode": {
+          "type": "string",
+          "maxLength": 64
+        },
+        "topicTitle": {
+          "type": "string",
+          "maxLength": 256
+        },
+        "totalQuestions": {
+          "type": "number"
+        },
+        "correctAnswers": {
+          "type": "number"
+        },
+        "wrongAnswers": {
+          "type": "number"
+        },
+        "unanswered": {
+          "type": "number"
+        },
+        "scorePercentage": {
+          "type": "number"
+        },
+        "scoreBall": {
+          "type": "number"
+        },
+        "timeSpentSeconds": {
+          "type": "number"
+        },
+        "incorrectQuestionIds": {
+          "type": "array"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": ["id", "userId", "scorePercentage", "createdAt"]
+    }
+  },
+  "firestore": {
+    "users/{userId}": {
+      "schema": "User",
+      "description": "Users collection containing basic profile data"
+    },
+    "results/{resultId}": {
+      "schema": "QuizResult",
+      "description": "Historical results of quizzes"
+    }
+  }
+}

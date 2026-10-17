@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MODDA — Huquq platformasi</title>
+    <meta name="description" content="Huquq fanidan DTM testlari, O'zbekiston qonunchiligi, moddalar va yuridik testlar platformasi" />
+    <meta property="og:title" content="MODDA — Huquq platformasi" />
+    <meta property="og:description" content="Huquq fanidan DTM testlari, O'zbekiston qonunchiligi, moddalar va yuridik testlar platformasi" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    
+    <!-- PWA Meta tags -->
+    <meta name="theme-color" content="#8C6B38" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="MODDA" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preload" as="image" href="/assets/images/uzbekistan_courtroom.avif" type="image/avif" fetchpriority="high" />
+    <link rel="preload" as="image" href="/assets/images/uzbekistan_courtroom.webp" type="image/webp" />
+    <link rel="preload" as="image" href="/assets/images/law_pencil_sketch.avif" type="image/avif" />
+    <link rel="preload" as="image" href="/assets/images/chronology_sketch.avif" type="image/avif" />
+  </head>
+  <body class="bg-[#FBF9F4] text-[#1E1A16] antialiased selection:bg-[#8C6B38] selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Service Worker Registration Script -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then((reg) => console.log('Service Worker registered successfully:', reg.scope))
+            .catch((err) => console.log('Service Worker registration failed:', err));
+        });
+      }
+    </script>
+  </body>
+</html>
+

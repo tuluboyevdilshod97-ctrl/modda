@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "MODDA — Huquqshunoslik Ta'lim Platformasi",
+  "short_name": "MODDA",
+  "description": "Huquqshunoslik fani bo'yicha imtihonlarga tayyorlanish uchun BMBA va Milliy sertifikat testlari, darsliklar hamda qonunlar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBF9F4",
+  "theme_color": "#8C6B38",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "d8-301",
+    "question": "Saylovda qatnashish huquqi necha yoshdan boshlanadi?",
+    "options": [
+      "16 yoshdan",
+      "17 yoshdan",
+      "18 yoshdan",
+      "21 yoshdan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saylov kuni 18 yoshga to'lgan O'zbekiston Respublikasi fuqarolari saylash huquqiga egadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-302",
+    "question": "O'zbekiston fuqarolari saylovda qanday huquq asosida qatnashadi?",
+    "options": [
+      "Teng, to'g'ridan-to'g'ri, yashirin ovoz berish",
+      "Faqat ochiq ovoz berish",
+      "Pochta orqali majburiy",
+      "Boyligiga qarab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuqarolar umumiy, teng va to'g'ridan-to'g'ri saylov huquqi asosida yashirin ovoz berish yo'li bilan saylaydilar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-303",
+    "question": "Qaysi fuqarolar saylovda qatnashish huquqidan mahrum qilinishi mumkin?",
+    "options": [
+      "Talabalar",
+      "Sud tomonidan muomalaga layoqatsiz deb topilganlar",
+      "Nafaqaxo'rlar",
+      "Boshqa tilda so'zlashuvchilar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sud tomonidan muomalaga layoqatsiz deb topilgan fuqarolar saylovda ishtirok etmaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-304",
+    "question": "Oliy Majlis Qonunchilik palatasiga deputatlikka nomzod ko'rsatish huquqiga kim ega?",
+    "options": [
+      "Mahallalar",
+      "Maktablar",
+      "Har qanday korxona",
+      "Siyosiy partiyalar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Qonunchilik palatasi deputatligiga nomzodlar ko'rsatish huquqiga faqat siyosiy partiyalar egadir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-305",
+    "question": "Saylov kodeksi qachon qabul qilingan?",
+    "options": [
+      "2019-yilda",
+      "1991-yilda",
+      "2000-yilda",
+      "2010-yilda"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston Respublikasining Saylov kodeksi 2019-yil 25-iyunda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-306",
+    "question": "Saylov huquqi nima?",
+    "options": [
+      "Faqat passport olish huquqi",
+      "Faqat dars berish huquqi",
+      "Fuqaroning davlat organlarini saylash va ularga saylanish huquqi",
+      "Faqat soliq to'lash huquqi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saylov huquqi — fuqaroning davlat vakillik organlariga saylash va saylanishga oid konstitutsiyaviy huquqidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-307",
+    "question": "Faol saylov huquqi nima?",
+    "options": [
+      "Fuqaroning saylash (ovoz berish) huquqi",
+      "Deputat bo'lib saylanish huquqi",
+      "Saylov komissiyasi a'zosi bo'lish",
+      "Kuzatuvchi bo'lish"
+    ],
+    "correctIndex": 0,
+    "explanation": "Faol saylov huquqi — fuqarolarning davlat organlariga nomzodlarni saylash (ovoz berish) huquqidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-308",
+    "question": "Passiv saylov huquqi nima?",
+    "options": [
+      "Ovoz berishdan bosh tortish",
+      "Fuqaroning saylanish huquqi",
+      "Boshqa davlatda saylash",
+      "Byulletenni yirtish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Passiv saylov huquqi — fuqarolarning davlat vakillik organlariga yoki lavozimga saylanish huquqi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-309",
+    "question": "Saylovning ochiqligi va oshkoraligini kimlar kuzatadi?",
+    "options": [
+      "Faqat politsiya",
+      "Faqat kotiblar",
+      "Faqat do'kondorlar",
+      "Kuzatuvchilar (mahalliy va xalqaro)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Saylov jarayonlarini siyosiy partiyalar, fuqarolarning o'zini o'zi boshqarish organlari hamda xalqaro kuzatuvchilar kuzatib boradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-310",
+    "question": "Saylov byulleteniga nimalar yoziladi?",
+    "options": [
+      "Saylovchining pasport ma'lumotlari",
+      "Oylik maoshlar ro'yxati",
+      "Nomzodlarning familiyasi, ismi va otasining ismi",
+      "Saylov komissiyasi raisining xati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saylov byulleteniga ro'yxatga olingan nomzodlarning F.I.Sh. va ularni ko'rsatgan siyosiy partiya nomi kiritiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 31-mavzu"
+  },
+  {
+    "id": "d8-311",
+    "question": "Mahalla fuqarolar yig'ini raisi necha yil muddatga saylanadi?",
+    "options": [
+      "2 yil muddatga",
+      "3 yil muddatga",
+      "5 yil muddatga",
+      "10 yil muddatga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuqarolar yig'ini raisi (oqsoqoli) qonunga binoan 3 yil muddatga saylanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-312",
+    "question": "Fuqarolarning o'zini o'zi boshqarish organi qaysi?",
+    "options": [
+      "Mahalla fuqarolar yig'ini",
+      "Tuman hokimligi",
+      "Vazirlik",
+      "Sud"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shaharcha, qishloq, ovul hamda mahallalarda fuqarolar yig'inlari o'zini o'zi boshqarish organlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-313",
+    "question": "Fuqarolar yig'ini raisi kim tomonidan saylanadi?",
+    "options": [
+      "Hokim tomonidan tayinlanadi",
+      "Vazir tomonidan tasdiqlanadi",
+      "Fuqarolar yig'ini (vakillar yig'ilishi) tomonidan",
+      "Sudya tomonidan belgilanadi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mahalla raisi bevosita fuqarolar yig'ini yoki ularning vakillari yig'ilishi tomonidan saylanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-314",
+    "question": "Mahallaning vazifasiga qaysi biri kiradi?",
+    "options": [
+      "Qonun qabul qilish",
+      "Valyuta kursini belgilash",
+      "Hukm chiqarish",
+      "Moddiy yordam ko'rsatish, obodonlashtirish, jamoat tartibiga ko'maklashish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mahalla ijtimoiy ko'mak, hududni obodonlashtirish, oilaviy totuvlik va jamoat tartibini mustahkamlash bilan shug'ullanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-315",
+    "question": "«Fuqarolarning o'zini o'zi boshqarish organlari to'g'risida»gi qonun yangi tahriri qachon qabul qilingan?",
+    "options": [
+      "1991-yilda",
+      "2013-yilda",
+      "2000-yilda",
+      "2020-yilda"
+    ],
+    "correctIndex": 1,
+    "explanation": "«Fuqarolarning o'zini o'zi boshqarish organlari to'g'risida»gi O'zbekiston Respublikasi Qonunining yangi tahriri 2013-yilda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-316",
+    "question": "Mahalla tizimining asosiy maqsadi nima?",
+    "options": [
+      "Hokimiyatni markazlashtirish",
+      "Joylarda masalalarni xalqning o'zi hal qilishiga erishish",
+      "Soliqlarni oshirish",
+      "Erkinliklarni cheklash"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mahalliy ahamiyatga molik masalalarni aholining bevosita o'zi hal qilishini ta'minlash asosiy maqsaddir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-317",
+    "question": "«Mahalla beshligi / yettiligi» tizimiga kimlar kiradi?",
+    "options": [
+      "Rais, hokim yordamchisi, xotin-qizlar faoli, yoshlar yetakchisi, profilaktika inspektori",
+      "Bosh vazir, vazirlar",
+      "Deputatlar, senatorlar",
+      "Sudyalar, prokurorlar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mahalladagi masalalarni kompleks hal etuvchi «mahalla yettiligi/beshligi» faoliyati yo'lga qo'yilgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-318",
+    "question": "Fuqarolar yig'ini kengashi nima?",
+    "options": [
+      "Sud organi",
+      "Vazirlik bo'limi",
+      "Yig'ilishlar oralig'ida faoliyat yurituvchi ijroiya organi",
+      "Siyosiy partiya qanoti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kengash fuqarolar yig'inlari oralig'idagi davrda yig'in qarorlari ijrosini ta'minlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-319",
+    "question": "Mahalla fuqarolar yig'ini qarorlari kim uchun majburiy?",
+    "options": [
+      "Faqat rais uchun",
+      "Faqat maktablar uchun",
+      "Faqat chet elliklar uchun",
+      "O'sha hududda yashovchi barcha fuqarolar uchun"
+    ],
+    "correctIndex": 3,
+    "explanation": "O'z vakolatlari doirasida qabul qilingan mahalla qarorlari hududdagi barcha aholi uchun majburiydir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-320",
+    "question": "O'zbekistonda nechta mahalla mavjud?",
+    "options": [
+      "1 ming",
+      "5 ming",
+      "9 mingdan ortiq",
+      "50 ming"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekistonda 9 300 dan ortiq mahalla fuqarolar yig'inlari faoliyat yuritmoqda.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 32-mavzu"
+  },
+  {
+    "id": "d8-321",
+    "question": "Inson huquqlari umumjahon deklaratsiyasi qachon qabul qilingan?",
+    "options": [
+      "1948-yil 10-dekabrda",
+      "1945-yil 9-mayda",
+      "1991-yil 1-sentabrda",
+      "2000-yil 1-yanvarda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inson huquqlari umumjahon deklaratsiyasi 1948-yil 10-dekabrda BMT tomonidan qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-322",
+    "question": "Deklaratsiyani qaysi tashkilot qabul qilgan?",
+    "options": [
+      "YUNESKO",
+      "BMT Bosh Assambleyasi",
+      "Xalqaro Valyuta Jamg'armasi",
+      "Olimpiada qo'mitasi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deklaratsiya BMT Bosh Assambleyasining Parijdagi majlisida qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-323",
+    "question": "Deklaratsiya nechta moddadan iborat?",
+    "options": [
+      "10 ta",
+      "20 ta",
+      "30 ta",
+      "50 ta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inson huquqlari umumjahon deklaratsiyasi muqaddima va 30 ta moddadan iborat.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-324",
+    "question": "O'zbekiston Deklaratsiyaga qachon qo'shilgan?",
+    "options": [
+      "1948-yilda",
+      "1985-yilda",
+      "1995-yilda",
+      "1991-yil 30-sentabrda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mustaqil O'zbekiston birinchilardan bo'lib 1991-yil 30-sentabrda Deklaratsiyaga qo'shilgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-325",
+    "question": "Deklaratsiyaning 1-moddasida nima deyilgan?",
+    "options": [
+      "Hamma odamlar boy bo'lishi kerak",
+      "Hamma odamlar bir xil ish qilishi kerak",
+      "Barcha insonlar erkin, qadr-qimmat va huquqlarda teng bo'lib tug'iladilar",
+      "Hamma odamlar sayohat qilishi shart"
+    ],
+    "correctIndex": 2,
+    "explanation": "1-modda: Barcha insonlar erkin, qadr-qimmat va huquqlarda teng bo'lib tug'iladilar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-326",
+    "question": "Inson huquqlari umumjahon deklaratsiyasi nima?",
+    "options": [
+      "Insonning asosiy huquq va erkinliklarini mustahkamlagan tarixiy xalqaro hujjat",
+      "Bitta davlatning qonuni",
+      "Falsafiy she'r",
+      "Tibbiy yo'riqnoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deklaratsiya insoniyat tarixida inson huquqlari umumjahon andozasini yaratgan eng nufuzli hujjatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-327",
+    "question": "Xalqaro inson huquqlari kuni qachon nishonlanadi?",
+    "options": [
+      "1-yanvarda",
+      "10-dekabrda",
+      "1-iyunda",
+      "21-martda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deklaratsiya qabul qilingan kun — 10-dekabr butun dunyoda Xalqaro inson huquqlari kuni deb nishonlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-328",
+    "question": "Deklaratsiyada qanday huquqlar belgilangan?",
+    "options": [
+      "Faqat sayohat huquqi",
+      "Faqat ovqatlanish huquqi",
+      "Fuqarolik, siyosiy, iqtisodiy, ijtimoiy va madaniy huquqlar",
+      "Faqat harbiy huquqlar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deklaratsiyada fuqarolik, siyosiy, iqtisodiy, ijtimoiy va madaniy sohalardagi barcha asosiy huquqlar qamrab olingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-329",
+    "question": "Qullik va qul savdosi to'g'risida Deklaratsiyada nima deyilgan?",
+    "options": [
+      "Ayrim joylarda ruxsat beriladi",
+      "Vaqtinchalik mumkin",
+      "Pullik bo'lishi mumkin",
+      "Har qanday shakldagi qullik qat'iyan taqiqlanadi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Deklaratsiyaning 4-moddasiga binoan hech kim qullikda tutilishi mumkin emas, qul savdosi barcha ko'rinishda taqiqlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-330",
+    "question": "Qiynoqlar to'g'risida Deklaratsiya qoidasi qanday?",
+    "options": [
+      "Hech kim qiynoqqa yoki shafqatsiz muomalaga duchor etilishi mumkin emas",
+      "Xohishga ko'ra ruxsat etiladi",
+      "Qonunda ruxsat berilgan",
+      "Faqat jarima to'lanadi"
+    ],
+    "correctIndex": 0,
+    "explanation": "5-modda: Hech kim qiynoqqa yoki shafqatsiz, g'ayriinsoniy yoxud qadr-qimmatni kamsituvchi muomalaga duchor etilmasligi kerak.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 33-mavzu"
+  },
+  {
+    "id": "d8-331",
+    "question": "Bola huquqlari to'g'risidagi konvensiya qachon qabul qilingan?",
+    "options": [
+      "1948-yilda",
+      "1989-yil 20-noyabrda",
+      "1995-yilda",
+      "2005-yilda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bola huquqlari to'g'risidagi konvensiya BMT Bosh Assambleyasi tomonidan 1989-yil 20-noyabrda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-332",
+    "question": "Konvensiyaga ko'ra kim «bola» hisoblanadi?",
+    "options": [
+      "18 yoshga to'lmagan har bir inson",
+      "16 yoshga to'lmaganlar",
+      "14 yoshga to'lmaganlar",
+      "10 yoshga to'lmaganlar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Konvensiyaning 1-moddasiga binoan, 18 yoshga yetmagan har bir inson bola hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-333",
+    "question": "O'zbekiston Bola huquqlari to'g'risidagi konvensiyani qachon ratifikatsiya qilgan?",
+    "options": [
+      "1989-yilda",
+      "1991-yilda",
+      "1992-yil 9-dekabrda",
+      "2000-yilda"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekiston mazkur Konvensiyani 1992-yil 9-dekabrda ratifikatsiya qilgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-334",
+    "question": "Konvensiyaning asosiy tamoyillaridan biri qaysi?",
+    "options": [
+      "Kattalarga bo'ysunish",
+      "Jazolash ustuvorligi",
+      "Majburiy mehnat",
+      "Bolaning eng ustun manfaatlari ta'minlanishi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bola to'g'risidagi har qanday qarorda «bolaning eng ustun manfaatlari» birinchi o'rinda turishi shart.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-335",
+    "question": "O'zbekistonda «Bola huquqlarining kafolatlari to'g'risida»gi qonun qachon qabul qilingan?",
+    "options": [
+      "2008-yil 7-yanvarda",
+      "1992-yilda",
+      "2015-yilda",
+      "2020-yilda"
+    ],
+    "correctIndex": 0,
+    "explanation": "«Bola huquqlarining kafolatlari to'g'risida»gi O'zbekiston Respublikasi Qonuni 2008-yil 7-yanvarda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-336",
+    "question": "Bola huquqlari to'g'risidagi konvensiya nechta moddadan iborat?",
+    "options": [
+      "30 ta",
+      "54 ta moddadan",
+      "100 ta",
+      "15 ta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Konvensiya jami 54 ta moddadan iborat bo'lib, barcha bola huquqlarini belgilab beradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-337",
+    "question": "Bolaning asosiy huquqlariga qaysi biri kiradi?",
+    "options": [
+      "Yashash, ism olish, fuqarolikka ega bo'lish, ta'lim olish huquqi",
+      "Faqat dam olish",
+      "Faqat ovqatlanish",
+      "Faqat o'yin o'ynash"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yashash, ism va fuqarolik olish, oilada yashash, sog'lig'ini saqlash va ta'lim olish bolaning asosiy huquqlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-338",
+    "question": "Bolani iqtisodiy ekspluatatsiyadan himoya qilish kimning burchi?",
+    "options": [
+      "Faqat qo'shnilarning",
+      "Hech kimning",
+      "Davlat va ota-onaning",
+      "Faqat o'qituvchining"
+    ],
+    "correctIndex": 2,
+    "explanation": "Davlat va ota-ona bolani har qanday og'ir, uning ta'limi va sog'lig'iga zarar yetkazuvchi ekspluatatsiyadan himoya qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-339",
+    "question": "Bolalar ombudsmani nima bilan shug'ullanadi?",
+    "options": [
+      "Savdo bilan",
+      "Sport musobaqalari o'tkazish bilan",
+      "Film olish bilan",
+      "Bola huquqlari va qonuniy manfaatlarini himoya qilish bilan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bolalar ombudsmani (Bola huquqlari bo'yicha vakil) bola huquqlarining buzilish holatlarini o'rganadi va himoya qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  },
+  {
+    "id": "d8-340",
+    "question": "Har yili 20-noyabr qanday kun sifatida nishonlanadi?",
+    "options": [
+      "O'qituvchilar kuni",
+      "Shifokorlar kuni",
+      "Butunjahon bolalar kuni sifatida",
+      "Sportchilar kuni"
+    ],
+    "correctIndex": 2,
+    "explanation": "20-noyabr butun dunyoda Butunjahon bolalar kuni (World Children's Day) sifatida keng nishonlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 34-mavzu"
+  }
+]

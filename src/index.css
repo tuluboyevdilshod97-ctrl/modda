@@ -1,0 +1,166 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg: #FBF9F4;
+    --ink: #1E1A16;
+    --accent: #8C6B38;
+    --ink-faint: rgba(30, 26, 22, 0.08);
+    --surface: #FAF8F5;
+    --border: 1px solid #E5E0D8;
+  }
+
+  .dark {
+    --bg: #120E0A;
+    --ink: #F5EFEB;
+    --accent: #E6C687;
+    --ink-faint: rgba(245, 239, 235, 0.08);
+    --surface: #1C1612;
+    --border: 1px solid #3E342B;
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
+.font-syne {
+  font-family: 'Syne', sans-serif;
+}
+
+.font-mono-code {
+  font-family: 'Space Mono', monospace;
+}
+
+/* Custom scrollbar for classic warm look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FBF9F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #DDD7CD;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8C6B38;
+}
+
+/* Ken Burns effect for banner image */
+@keyframes kenburns {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.08);
+  }
+}
+
+.animate-kenburns {
+  animation: kenburns 18s ease-in-out infinite alternate;
+}
+
+/* Comprehensive Dark Mode Overrides */
+.dark {
+  color-scheme: dark;
+}
+.dark .bg-white {
+  background-color: var(--surface) !important;
+}
+.dark .bg-\[\#FAF8F5\] {
+  background-color: var(--surface) !important;
+}
+.dark .bg-\[\#FAF5ED\] {
+  background-color: var(--surface) !important;
+}
+.dark .bg-\[\#FAF6F0\] {
+  background-color: var(--surface) !important;
+}
+.dark .bg-\[\#F2ECE1\] {
+  background-color: #27201A !important;
+}
+.dark .bg-\[\#FAFBFD\] {
+  background-color: var(--surface) !important;
+}
+.dark .text-\[\#1E1A16\] {
+  color: var(--ink) !important;
+}
+.dark .text-\[\#4A443D\] {
+  color: var(--ink) !important;
+}
+.dark .text-\[\#6E675F\] {
+  color: #A49A90 !important;
+}
+.dark .text-\[\#736B60\] {
+  color: #A49A90 !important;
+}
+.dark .text-\[\#595248\] {
+  color: #CFC5BC !important;
+}
+.dark .border-\[\#E5E0D8\] {
+  border-color: #3E342B !important;
+}
+.dark .border-\[\#DDD7CD\] {
+  border-color: #3E342B !important;
+}
+.dark .border-\[\#EAE5DD\] {
+  border-color: #3E342B !important;
+}
+.dark .border-\[\#E6DCC8\] {
+  border-color: #4E4237 !important;
+}
+.dark ::-webkit-scrollbar-track {
+  background: #120E0A !important;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #3E342B !important;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: var(--accent) !important;
+}
+
+@keyframes shimmer-sweep {
+  0% {
+    transform: translateX(-150%) skewX(-15deg);
+  }
+  100% {
+    transform: translateX(250%) skewX(-15deg);
+  }
+}
+
+.animate-shimmer-sweep {
+  animation: shimmer-sweep 1.2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Ensure all transition containers are completely solid and allow native fluid mobile scrolling */
+.transition-container {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 50 !important;
+  background-color: #FBF9F4 !important;
+  width: 100vw !important;
+  height: 100% !important;
+  min-height: 100dvh !important;
+  max-height: 100dvh !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  overscroll-behavior-y: contain !important;
+  touch-action: pan-y !important;
+  will-change: transform, opacity;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.transition-container.hidden {
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+.dark .transition-container {
+  background-color: #120E0A !important;
+}
+
+

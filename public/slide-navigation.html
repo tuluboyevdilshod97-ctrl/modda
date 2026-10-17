@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>MODDA — Huquqiy Test Platformasi</title>
+  <style>
+    /* CSS Variables & Global Resets */
+    :root {
+      --bg: #F7F5F0;
+      --card-bg: #FFFFFF;
+      --primary: #8C6B38;
+      --primary-dark: #6E5329;
+      --primary-light: #FBF8F3;
+      --ink: #1E1A16;
+      --ink-muted: #6B6255;
+      --border: #E8E2D8;
+      --accent-yellow: #FACC15;
+      --backdrop-overlay: rgba(15, 10, 3, 0.45);
+      --transition-slide: transform 400ms cubic-bezier(0.22, 1, 0.36, 1);
+      --transition-fade: opacity 380ms ease, visibility 380ms ease;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--ink);
+      line-height: 1.5;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Container */
+    .container {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 24px 20px 80px;
+    }
+
+    /* Header */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 32px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .brand-logo {
+      width: 42px;
+      height: 42px;
+      background: var(--accent-yellow);
+      color: #1E1A16;
+      font-weight: 800;
+      font-size: 26px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transform: rotate(-6deg);
+      border: 1px solid rgba(234, 179, 8, 0.5);
+      box-shadow: 0 4px 12px rgba(250, 204, 21, 0.35);
+      font-family: Calibri, "Segoe UI", sans-serif;
+      padding-bottom: 2px;
+      user-select: none;
+      animation: logoPulse 2.4s infinite ease-in-out;
+    }
+
+    @keyframes logoPulse {
+      0%, 100% { transform: rotate(-6deg) scale(1); box-shadow: 0 0 0 0 rgba(250, 204, 21, 0.6); }
+      50% { transform: rotate(-6deg) scale(1.06); box-shadow: 0 0 0 8px rgba(250, 204, 21, 0); }
+    }
+
+    .brand-text h1 {
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      text-transform: uppercase;
+      line-height: 1.1;
+    }
+
+    .brand-text p {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--ink-muted);
+      font-weight: 600;
+    }
+
+    /* Hero intro */
+    .hero-title {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+      color: var(--ink);
+    }
+
+    .hero-subtitle {
+      font-size: 14px;
+      color: var(--ink-muted);
+      margin-bottom: 28px;
+      max-width: 600px;
+    }
+
+    /* 7 Sections Grid */
+    .sections-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+      gap: 20px;
+    }
+
+    .section-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+      transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+    }
+
+    .section-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 24px rgba(140, 107, 56, 0.12);
+      border-color: var(--primary);
+    }
+
+    .card-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .badge-code {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 800;
+      padding: 4px 10px;
+      border-radius: 8px;
+      background: #FAF3E7;
+      color: var(--primary);
+      border: 1px solid rgba(140, 107, 56, 0.2);
+    }
+
+    .stat-pill {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--ink-muted);
+      background: #F4F1EA;
+      padding: 4px 8px;
+      border-radius: 6px;
+    }
+
+    .card-title {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: var(--ink);
+    }
+
+    .card-desc {
+      font-size: 13px;
+      color: var(--ink-muted);
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .arrow-icon {
+      width: 18px;
+      height: 18px;
+      transition: transform 200ms ease;
+    }
+
+    .section-card:hover .arrow-icon {
+      transform: translateX(4px);
+    }
+
+    /* ========================================================= */
+    /* SLIDE NAVIGATION OVERLAY & PANEL REQUIREMENTS             */
+    /* ========================================================= */
+
+    /* Backdrop Overlay */
+    .slide-backdrop {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: var(--backdrop-overlay);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      z-index: 998;
+      opacity: 0;
+      visibility: hidden;
+      transition: var(--transition-fade);
+    }
+
+    .slide-backdrop.active {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    /* Fixed Panel: width min(720px, 100%), full height */
+    .slide-panel {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: min(720px, 100%);
+      height: 100vh;
+      height: 100dvh;
+      background: #FFFFFF;
+      z-index: 999;
+      transform: translateX(100%);
+      transition: var(--transition-slide);
+      display: flex;
+      flex-direction: column;
+      box-shadow: -10px 0 40px rgba(0, 0, 0, 0.16);
+      will-change: transform;
+      outline: none;
+    }
+
+    .slide-panel.open {
+      transform: translateX(0);
+    }
+
+    /* Panel Header */
+    .panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 24px;
+      border-bottom: 1px solid var(--border);
+      background: #FAF8F5;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .panel-header-left {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 14px;
+      border-radius: 10px;
+      background: #FFFFFF;
+      border: 1px solid var(--border);
+      color: var(--ink);
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 180ms ease;
+    }
+
+    .back-btn:hover {
+      background: #F5EFE6;
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .panel-badge {
+      font-size: 12px;
+      font-weight: 800;
+      padding: 4px 10px;
+      border-radius: 8px;
+      background: var(--primary);
+      color: #FFFFFF;
+    }
+
+    .close-icon-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      border: 1px solid transparent;
+      background: transparent;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: var(--ink-muted);
+      transition: all 180ms ease;
+    }
+
+    .close-icon-btn:hover {
+      background: #EDE8DE;
+      color: var(--ink);
+    }
+
+    /* Panel Body */
+    .panel-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px 28px 48px;
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+    }
+
+    .panel-title-area h2 {
+      font-size: 26px;
+      font-weight: 800;
+      color: var(--ink);
+      line-height: 1.25;
+      margin-bottom: 8px;
+    }
+
+    .panel-title-area p {
+      font-size: 14px;
+      color: var(--ink-muted);
+      line-height: 1.6;
+    }
+
+    /* Swipe hint banner on mobile */
+    .swipe-hint {
+      display: none;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 8px 12px;
+      background: #FAF5ED;
+      border: 1px dashed var(--primary);
+      border-radius: 10px;
+      font-size: 12px;
+      color: var(--primary-dark);
+      font-weight: 600;
+    }
+
+    @media (max-width: 768px) {
+      .swipe-hint {
+        display: flex;
+      }
+      .panel-body {
+        padding: 24px 18px 40px;
+      }
+    }
+
+    /* Stats box inside panel */
+    .panel-stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .stat-card {
+      background: #FAF8F5;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+      text-align: center;
+    }
+
+    .stat-card .val {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 2px;
+    }
+
+    .stat-card .lbl {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+      letter-spacing: 0.5px;
+    }
+
+    /* Difficulty Selection Box */
+    .difficulty-section h3 {
+      font-size: 16px;
+      font-weight: 800;
+      margin-bottom: 12px;
+      color: var(--ink);
+    }
+
+    .difficulty-options {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+
+    .diff-card {
+      border: 2px solid var(--border);
+      border-radius: 16px;
+      padding: 16px;
+      background: #FFFFFF;
+      cursor: pointer;
+      transition: all 200ms ease;
+    }
+
+    .diff-card:hover, .diff-card.selected {
+      border-color: var(--primary);
+      background: #FCFAF6;
+      box-shadow: 0 4px 14px rgba(140, 107, 56, 0.12);
+    }
+
+    .diff-card h4 {
+      font-size: 15px;
+      font-weight: 800;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .diff-card p {
+      font-size: 12px;
+      color: var(--ink-muted);
+      line-height: 1.4;
+    }
+
+    /* Action buttons in panel */
+    .panel-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: auto;
+      padding-top: 20px;
+    }
+
+    .start-btn {
+      width: 100%;
+      padding: 16px;
+      border-radius: 14px;
+      background: var(--primary);
+      color: #FFFFFF;
+      font-size: 15px;
+      font-weight: 800;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: background 200ms ease, transform 150ms ease;
+      box-shadow: 0 4px 14px rgba(140, 107, 56, 0.25);
+    }
+
+    .start-btn:hover {
+      background: var(--primary-dark);
+      transform: translateY(-1px);
+    }
+
+    .start-btn:active {
+      transform: scale(0.99);
+    }
+
+    /* Topic info summary */
+    .topic-details-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .topic-detail-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 13px;
+      color: var(--ink);
+    }
+
+    .check-bullet {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #E8F5E9;
+      color: #2E7D32;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 900;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Header with MODDA official brand logo -->
+    <header>
+      <a href="#" class="brand">
+        <div class="brand-logo">m</div>
+        <div class="brand-text">
+          <h1>MODDA</h1>
+          <p>Milliy Sertifikat & BMBA</p>
+        </div>
+      </a>
+      <div style="font-size: 12px; font-weight: 700; color: var(--primary); background: #FAF3E7; padding: 6px 14px; border-radius: 10px; border: 1px solid rgba(140,107,56,0.2);">
+        Slide Navigation Mode
+      </div>
+    </header>
+
+    <!-- Hero Title -->
+    <h2 class="hero-title">7 Asosiy Huquqiy Bo‘lim</h2>
+    <p class="hero-subtitle">
+      Istalgan bo‘lim ustiga bosing — sahifa qayta yuklanmasdan, to‘liq o‘ngdan chapga <strong>(slide-in 400ms)</strong> silliq ochiladi.
+    </p>
+
+    <!-- 7 Sections Grid -->
+    <div class="sections-grid" id="sectionsGrid">
+      <!-- 1. Konstitutsiya -->
+      <article class="section-card" data-section="constitution" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">KONSTITUTSIYA</span>
+            <span class="stat-pill">128 ta test</span>
+          </div>
+          <h3 class="card-title">O‘zbekiston Konstitutsiyasi</h3>
+          <p class="card-desc">Yangi tahrirdagi Konstitutsiya moddalari, inson huquqlari, davlat hokimiyati tizimi va asosiy tamoyillar.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 2. DHN -->
+      <article class="section-card" data-section="dhn" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">DHN</span>
+            <span class="stat-pill">95 ta test</span>
+          </div>
+          <h3 class="card-title">Davlat va Huquq Nazariyasi</h3>
+          <p class="card-desc">Huquq normalari, davlat shakllari, huquqiy munosabatlar, qonuniylik va huquqiy tartibot nazariyalari.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 3. FG -->
+      <article class="section-card" data-section="fg" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">FG / FK</span>
+            <span class="stat-pill">110 ta test</span>
+          </div>
+          <h3 class="card-title">Fuqarolik Huquqi</h3>
+          <p class="card-desc">Bitimlar, mulk huquqi, majburiyatlar, da'vo muddati va fuqarolik-huquqiy javobgarlik asoslari.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 4. MK -->
+      <article class="section-card" data-section="mk" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">MK</span>
+            <span class="stat-pill">84 ta test</span>
+          </div>
+          <h3 class="card-title">Mehnat Kodeksi</h3>
+          <p class="card-desc">Yangi Mehnat kodeksi: mehnat shartnomasi, ish vaqti, ta’tillar, intizomiy jazo va kafolatlar.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 5. JK -->
+      <article class="section-card" data-section="jk" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">JK</span>
+            <span class="stat-pill">120 ta test</span>
+          </div>
+          <h3 class="card-title">Jinoyat Kodeksi</h3>
+          <p class="card-desc">Jinoyat tarkibi, jinoiy javobgarlik, jazo turlari, jinoyatda ishtirokchilik va muddatlar.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 6. OK -->
+      <article class="section-card" data-section="ok" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">OK</span>
+            <span class="stat-pill">72 ta test</span>
+          </div>
+          <h3 class="card-title">Oila Kodeksi</h3>
+          <p class="card-desc">Nikoh tuzish va bekor qilish, er-xotin va ota-onaning huquq va majburiyatlari, aliment munosabatlari.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+
+      <!-- 7. MJtX / MJtK -->
+      <article class="section-card" data-section="mjtx" role="button" tabindex="0">
+        <div>
+          <div class="card-top">
+            <span class="badge-code">MJtX / MJtK</span>
+            <span class="stat-pill">105 ta test</span>
+          </div>
+          <h3 class="card-title">Ma’muriy Javobgarlik</h3>
+          <p class="card-desc">Ma'muriy huquqbuzarliklar, ma'muriy jazo choralari, sudlovga tegishlilik va jarima stavkalari.</p>
+        </div>
+        <div class="card-footer">
+          <span>Testlarni ko‘rish</span>
+          <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </div>
+      </article>
+    </div>
+  </div>
+
+  <!-- ========================================================= -->
+  <!-- SLIDE NAVIGATION COMPONENTS                               -->
+  <!-- ========================================================= -->
+
+  <!-- Backdrop overlay: rgba(15,10,3,0.45) + blur(6px), fade in 380ms -->
+  <div class="slide-backdrop" id="slideBackdrop" aria-hidden="true"></div>
+
+  <!-- Slide-in panel: width min(720px, 100%), full height, translateX(100%) -> 0, 400ms -->
+  <aside class="slide-panel" id="slidePanel" role="dialog" aria-modal="true" aria-labelledby="panelTitle">
+    
+    <!-- Panel Header -->
+    <div class="panel-header">
+      <div class="panel-header-left">
+        <button class="back-btn" id="panelBackBtn" type="button" aria-label="Orqaga qaytish">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+          <span>Orqaga</span>
+        </button>
+        <span class="panel-badge" id="panelBadge">BO‘LIM</span>
+      </div>
+
+      <button class="close-icon-btn" id="panelCloseBtn" type="button" aria-label="Yopish">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+      </button>
+    </div>
+
+    <!-- Panel Scrollable Body -->
+    <div class="panel-body">
+      
+      <!-- Mobile swipe right indicator -->
+      <div class="swipe-hint">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        <span>Yopish uchun o‘ng tomonga suring (&gt;90px swipe)</span>
+      </div>
+
+      <!-- Title & description -->
+      <div class="panel-title-area">
+        <h2 id="panelTitle">Yuklanmoqda...</h2>
+        <p id="panelDesc">Bo‘lim ma'lumotlari kutilmoqda...</p>
+      </div>
+
+      <!-- Quick Metrics -->
+      <div class="panel-stats-grid">
+        <div class="stat-card">
+          <div class="val" id="statTotalQ">0</div>
+          <div class="lbl">Jami Testlar</div>
+        </div>
+        <div class="stat-card">
+          <div class="val" id="statOsonQ">0</div>
+          <div class="lbl">Oson</div>
+        </div>
+        <div class="stat-card">
+          <div class="val" id="statQiyinQ">0</div>
+          <div class="lbl">Qiyin</div>
+        </div>
+      </div>
+
+      <!-- Difficulty Selection -->
+      <div class="difficulty-section">
+        <h3>Darajani tanlang</h3>
+        <div class="difficulty-options">
+          <div class="diff-card selected" id="diffOson">
+            <h4>🟢 Oson daraja</h4>
+            <p>Asosiy moddalar, aniq faktlar va bazaviy tushunchalar testi.</p>
+          </div>
+          <div class="diff-card" id="diffQiyin">
+            <h4>🔴 Qiyin daraja</h4>
+            <p>Murakkab kazuslar, tahliliy moddalar va amaliy keyslar.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Topic Highlights -->
+      <div class="topic-details-list">
+        <div class="topic-detail-item">
+          <div class="check-bullet">✓</div>
+          <div>Har bir savol O‘zbekiston qonunchiligining eng so‘nggi tahriri asosida tekshirilgan.</div>
+        </div>
+        <div class="topic-detail-item">
+          <div class="check-bullet">✓</div>
+          <div>Milliy sertifikat va BMBA imtihoni talablariga to‘liq javob beradi.</div>
+        </div>
+        <div class="topic-detail-item">
+          <div class="check-bullet">✓</div>
+          <div>Har bir javobdan so‘ng qonun moddasi asosnomasi ko‘rsatiladi.</div>
+        </div>
+      </div>
+
+      <!-- Actions -->
+      <div class="panel-actions">
+        <button class="start-btn" id="startTestBtn" type="button">
+          <span>Testni boshlash</span>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </button>
+      </div>
+
+    </div>
+  </aside>
+
+  <!-- ========================================================= -->
+  <!-- VANILLA JAVASCRIPT: NO LIBRARIES                          -->
+  <!-- ========================================================= -->
+  <script>
+    (function () {
+      'use strict';
+
+      // 7 Sections Data Registry
+      const SECTIONS_DATA = {
+        constitution: {
+          badge: 'KONSTITUTSIYA',
+          title: 'O‘zbekiston Respublikasi Konstitutsiyasi',
+          desc: 'Yangi tahrirdagi bosh qomusimizning barcha bo‘limlari: inson va fuqaroning asosiy huquqlari, jamiyat va shaxs, davlat hokimiyatining tashkil etilishi hamda saylov tizimi.',
+          total: 128,
+          oson: 74,
+          qiyin: 54
+        },
+        dhn: {
+          badge: 'DHN',
+          title: 'Davlat va Huquq Nazariyasi',
+          desc: 'Huquqshunoslikning poydevori: davlat va huquqning paydo bo‘lishi, mohiyati, funksiyalari, huquq tizimi, huquqiy ong va madaniyat hamda qonun ustuvorligi prinsiplari.',
+          total: 95,
+          oson: 55,
+          qiyin: 40
+        },
+        fg: {
+          badge: 'FG / FK',
+          title: 'Fuqarolik Huquqi (Fuqarolik Kodeksi)',
+          desc: 'Mulk huquqi, shartnomalar, fuqarolar va yuridik shaxslarning huquq layoqati, ashyoviy huquqlar, da\'vo muddati va zarar yetkazishdan kelib chiqadigan majburiyatlar.',
+          total: 110,
+          oson: 68,
+          qiyin: 42
+        },
+        mk: {
+          badge: 'MK',
+          title: 'Mehnat Kodeksi (Yangi Tahrir)',
+          desc: 'Ish beruvchi va xodim munosabatlari: mehnat shartnomasini tuzish va bekor qilish, sinov muddati, ish vaqti va dam olish vaqtlari, kompensatsiyalar va kafolatlar.',
+          total: 84,
+          oson: 50,
+          qiyin: 34
+        },
+        jk: {
+          badge: 'JK',
+          title: 'Jinoyat Kodeksi',
+          desc: 'Jinoyat va jazo nazariyasi: jinoyat tarkibi belgilari, jinoiy javobgarlikdan ozod qilish, amnistiya, o‘zini himoya qilish chegaralari va jinoiy jazo tizimi.',
+          total: 120,
+          oson: 70,
+          qiyin: 50
+        },
+        ok: {
+          badge: 'OK',
+          title: 'Oila Kodeksi',
+          desc: 'Nikoh tuzish tartibi va shartlari, er-xotinning umumiy va alohida mulki, farzand asrab olish, ota-onalik huquqidan mahrum qilish va aliment undirish munosabatlari.',
+          total: 72,
+          oson: 48,
+          qiyin: 24
+        },
+        mjtx: {
+          badge: 'MJtX / MJtK',
+          title: 'Ma’muriy Javobgarlik To‘g‘risidagi Kodeks',
+          desc: 'Ma\'muriy huquqbuzarliklar va ularning turlari: jarimalar, maxsus huquqdan mahrum qilish, ma\'muriy qamoq, bayonnoma tuzish vakolatlari va sud jarayonlari.',
+          total: 105,
+          oson: 63,
+          qiyin: 42
+        }
+      };
+
+      // DOM Elements
+      const backdrop = document.getElementById('slideBackdrop');
+      const panel = document.getElementById('slidePanel');
+      const panelBackBtn = document.getElementById('panelBackBtn');
+      const panelCloseBtn = document.getElementById('panelCloseBtn');
+      const panelBadge = document.getElementById('panelBadge');
+      const panelTitle = document.getElementById('panelTitle');
+      const panelDesc = document.getElementById('panelDesc');
+      const statTotalQ = document.getElementById('statTotalQ');
+      const statOsonQ = document.getElementById('statOsonQ');
+      const statQiyinQ = document.getElementById('statQiyinQ');
+      const diffOson = document.getElementById('diffOson');
+      const diffQiyin = document.getElementById('diffQiyin');
+      const startTestBtn = document.getElementById('startTestBtn');
+      const sectionCards = document.querySelectorAll('.section-card');
+
+      let isPanelOpen = false;
+      let activeSectionId = null;
+
+      // =========================================================
+      // OPEN SLIDE PANEL (transform translateX(100%) -> 0, 400ms)
+      // =========================================================
+      function openPanel(sectionId, pushHistory = true) {
+        const data = SECTIONS_DATA[sectionId];
+        if (!data) return;
+
+        activeSectionId = sectionId;
+
+        // Populate content
+        panelBadge.textContent = data.badge;
+        panelTitle.textContent = data.title;
+        panelDesc.textContent = data.desc;
+        statTotalQ.textContent = data.total;
+        statOsonQ.textContent = data.oson;
+        statQiyinQ.textContent = data.qiyin;
+
+        // 1. Lock body scroll
+        document.body.style.overflow = 'hidden';
+
+        // 2. Fade in backdrop (380ms)
+        backdrop.classList.add('active');
+        backdrop.setAttribute('aria-hidden', 'false');
+
+        // 3. Slide in panel (400ms cubic-bezier(0.22, 1, 0.36, 1))
+        panel.classList.add('open');
+        isPanelOpen = true;
+
+        // 4. Focus management
+        panel.setAttribute('aria-hidden', 'false');
+        setTimeout(() => panelBackBtn.focus(), 50);
+
+        // 5. Browser history integration (pushState)
+        if (pushHistory) {
+          window.history.pushState({ modalOpen: true, sectionId: sectionId }, '', '#' + sectionId);
+        }
+      }
+
+      // =========================================================
+      // CLOSE SLIDE PANEL (Reverse slide-out, unlock body scroll)
+      // =========================================================
+      function closePanel(syncHistory = true) {
+        if (!isPanelOpen) return;
+
+        // 1. Slide out panel (transform: translateX(100%))
+        panel.classList.remove('open');
+        panel.setAttribute('aria-hidden', 'true');
+
+        // 2. Fade out backdrop
+        backdrop.classList.remove('active');
+        backdrop.setAttribute('aria-hidden', 'true');
+
+        isPanelOpen = false;
+
+        // 3. Unlock body scroll
+        document.body.style.overflow = '';
+
+        // 4. If closed via UI (overlay/back-btn/ESC/swipe), pop history state cleanly
+        if (syncHistory && window.location.hash) {
+          window.history.back();
+        }
+      }
+
+      // =========================================================
+      // EVENT LISTENERS: Cards Click -> Slide Open
+      // =========================================================
+      sectionCards.forEach(card => {
+        card.addEventListener('click', () => {
+          const sectionId = card.getAttribute('data-section');
+          openPanel(sectionId, true);
+        });
+
+        // Accessible Keyboard Enter / Space
+        card.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            const sectionId = card.getAttribute('data-section');
+            openPanel(sectionId, true);
+          }
+        });
+      });
+
+      // Close on Back button
+      panelBackBtn.addEventListener('click', () => closePanel(true));
+      panelCloseBtn.addEventListener('click', () => closePanel(true));
+
+      // Close on Backdrop Overlay Click
+      backdrop.addEventListener('click', () => closePanel(true));
+
+      // Close on ESC Key
+      window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && isPanelOpen) {
+          closePanel(true);
+        }
+      });
+
+      // Browser Back Button (popstate)
+      window.addEventListener('popstate', (e) => {
+        if (isPanelOpen) {
+          // If browser back was pressed, close panel without calling history.back()
+          closePanel(false);
+        } else if (e.state && e.state.modalOpen && e.state.sectionId) {
+          openPanel(e.state.sectionId, false);
+        }
+      });
+
+      // Check URL hash on initial load (e.g. #constitution)
+      window.addEventListener('DOMContentLoaded', () => {
+        const hash = window.location.hash.replace('#', '');
+        if (hash && SECTIONS_DATA[hash]) {
+          openPanel(hash, false);
+        }
+      });
+
+      // =========================================================
+      // MOBILE SWIPE RIGHT TO CLOSE (>90px)
+      // =========================================================
+      let touchStartX = 0;
+      let touchStartY = 0;
+      let touchCurrentX = 0;
+      let touchCurrentY = 0;
+      let isSwiping = false;
+
+      panel.addEventListener('touchstart', (e) => {
+        if (!isPanelOpen) return;
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+        touchCurrentX = touchStartX;
+        touchCurrentY = touchStartY;
+        isSwiping = false;
+      }, { passive: true });
+
+      panel.addEventListener('touchmove', (e) => {
+        if (!isPanelOpen) return;
+        touchCurrentX = e.touches[0].clientX;
+        touchCurrentY = e.touches[0].clientY;
+
+        const deltaX = touchCurrentX - touchStartX;
+        const deltaY = touchCurrentY - touchStartY;
+
+        // If swiping right and horizontal intent is stronger than vertical scroll
+        if (deltaX > 20 && Math.abs(deltaX) > Math.abs(deltaY)) {
+          isSwiping = true;
+        }
+      }, { passive: true });
+
+      panel.addEventListener('touchend', () => {
+        if (!isPanelOpen || !isSwiping) return;
+
+        const deltaX = touchCurrentX - touchStartX;
+        const deltaY = touchCurrentY - touchStartY;
+
+        // If swipe right exceeds 90px threshold
+        if (deltaX > 90 && Math.abs(deltaX) > Math.abs(deltaY) * 1.2) {
+          closePanel(true);
+        }
+
+        isSwiping = false;
+      }, { passive: true });
+
+      // Difficulty selector interactivity
+      diffOson.addEventListener('click', () => {
+        diffOson.classList.add('selected');
+        diffQiyin.classList.remove('selected');
+      });
+
+      diffQiyin.addEventListener('click', () => {
+        diffQiyin.classList.add('selected');
+        diffOson.classList.remove('selected');
+      });
+
+      // Start Test button
+      startTestBtn.addEventListener('click', () => {
+        alert(panelTitle.textContent + " testi tez orada ishga tushadi!");
+      });
+
+    })();
+  </script>
+</body>
+</html>

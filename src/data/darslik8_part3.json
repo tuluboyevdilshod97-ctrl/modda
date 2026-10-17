@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "d8-201",
+    "question": "«Huquqiy ong» deb nimaga aytiladi?",
+    "options": [
+      "Qonun kitobiga",
+      "Kishilarning huquq haqidagi bilimlari va unga bo'lgan munosabatiga",
+      "Sud binosiga",
+      "Advokat kiyimiga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquqiy ong — kishilarning huquq, qonunlar va adolat haqidagi tushuncha hamda his-tuyg'ulari yig'indisi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-202",
+    "question": "«Huquqiy madaniyat» deb nimaga aytiladi?",
+    "options": [
+      "O'z huquqlarini o'zgalar manfaatiga zid kelmaydigan tarzda amalga oshirishga",
+      "Qonun matnlarini yodlashga",
+      "Sudda ishlashga",
+      "Forma kiyishga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquqiy madaniyat — huquqiy bilimlarni amalda qo'llash, qonunlarga rioya etish va o'zgalar huquqini hurmat qilish.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-203",
+    "question": "Huquqiy ongning turlari qaysilar?",
+    "options": [
+      "Katta, kichik, o'rta",
+      "Qadimgi, o'rta, yangi",
+      "Oddiy (kundalik), professional, ilmiy-nazariy",
+      "Ertalabki, kunduzgi, kechki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquqiy ong: oddiy (kundalik), kasbiy (professional) va ilmiy-nazariy darajalarga bo'linadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-204",
+    "question": "«Huquqiy nigilizm» deb nimaga aytiladi?",
+    "options": [
+      "Huquqni chuqur o'rganishga",
+      "Huquqni targ'ib qilishga",
+      "Huquqni himoya qilishga",
+      "Huquqni mensimaslikka, unga e'tiborsizlikka"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huquqiy nigilizm — qonun va huquqiy normalarni inkor etish, mensimaslik va e'tiborsiz munosabatda bo'lish.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-205",
+    "question": "Prezidentning 2019-yil 9-yanvardagi farmoni nimaga bag'ishlangan?",
+    "options": [
+      "Soliqlarni oshirishga",
+      "Huquqiy ong va huquqiy madaniyatni yuksaltirishga",
+      "Chegaralarni yopishga",
+      "Narxlarni oshirishga"
+    ],
+    "correctIndex": 1,
+    "explanation": "2019-yil 9-yanvarda «Jamiyatda huquqiy ong va huquqiy madaniyatni yuksaltirish tizimini tubdan takomillashtirish to'g'risida»gi PF-5618-son Farmon qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-206",
+    "question": "Professional huquqiy ong kimlarda shakllanadi?",
+    "options": [
+      "Barcha maktab o'quvchilarida",
+      "Yuristlarda",
+      "Faqat tadbirkorlarda",
+      "Faqat muhandislarda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kasbiy (professional) huquqiy ong yuristlar, sudyalar va advokatlarda shakllanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-207",
+    "question": "Oddiy (kundalik) huquqiy ongga nima misol bo'ladi?",
+    "options": [
+      "Fuqaroning kundalik hayotdagi huquqiy bilimlari",
+      "Olimning ilmiy asari",
+      "Sud hukmi",
+      "Vazir buyrug'i"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuqaroning kundalik hayotdagi sodda huquqiy bilimlari oddiy ong darajasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-208",
+    "question": "Huquqiy madaniyatni yuksaltirishning yo'li qaysi?",
+    "options": [
+      "Jazolarni ko'paytirish",
+      "Qonunlarni yashirish",
+      "Huquqiy ta'lim va targ'ibot",
+      "Sudlarni yopish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huquqiy ta'lim va tizimli huquqiy targ'ibot madaniyatni oshirishning asosiy yo'lidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-209",
+    "question": "Yuksak huquqiy madaniyat nimani ta'minlaydi?",
+    "options": [
+      "Tartibsizlikni",
+      "Jinoyatlar ko'payishini",
+      "Qonunlarni unutishni",
+      "Qonun ustuvorligini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yuksak huquqiy madaniyat jamiyatda qonun ustuvorligi va adolatni ta'minlaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-210",
+    "question": "Huquqiy ongni yuksaltirishda birinchi navbatda kimlar nazarda tutiladi?",
+    "options": [
+      "Faqat keksalar",
+      "Faqat chet elliklar",
+      "Faqat amaldorlar",
+      "Aholi, birinchi navbatda yoshlar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huquqiy tarbiyada asosiy e'tibor yosh avlodning ongi va madaniyatini yuksaltirishga qaratiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 21-mavzu"
+  },
+  {
+    "id": "d8-211",
+    "question": "«Huquqbuzarlik» deb nimaga aytiladi?",
+    "options": [
+      "Qonunchilik bilan belgilangan tartib-qoidalarni buzishga",
+      "Sport bilan shug'ullanishga",
+      "Kitob o'qishga",
+      "Sayr qilishga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Huquqbuzarlik — huquqqa zid, aybli va ijtimoiy xavfli harakat yoki harakatsizlik.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-212",
+    "question": "Huquqbuzarlik necha turga bo'linadi?",
+    "options": [
+      "2 ga",
+      "4 ga",
+      "3 ga",
+      "5 ga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquqbuzarliklar 4 turga bo'linadi: intizomiy, fuqarolik-huquqiy, ma'muriy va jinoiy.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-213",
+    "question": "Eng og'ir huquqbuzarlik turi qaysi?",
+    "options": [
+      "Intizomiy",
+      "Fuqarolik-huquqiy",
+      "Jinoiy",
+      "Axloqiy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jinoyat — eng yuqori ijtimoiy xavflilik darajasiga ega bo'lgan huquqbuzarlikdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-214",
+    "question": "Ishga sababsiz kechikish qanday huquqbuzarlik?",
+    "options": [
+      "Jinoiy",
+      "Ma'muriy",
+      "Fuqarolik-huquqiy",
+      "Intizomiy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mehnat intizomini buzish (kechikish) — intizomiy nojo'ya harakatdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-215",
+    "question": "Qalbaki pul o'tkazish qanday huquqbuzarlik?",
+    "options": [
+      "Jinoiy",
+      "Intizomiy",
+      "Axloqiy",
+      "Huquqbuzarlik emas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qalbaki pul yasash yoki o'tkazish og'ir jinoyat hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-216",
+    "question": "Huquqbuzarlik belgilariga qaysi biri kiradi?",
+    "options": [
+      "Ijtimoiy xavflilik",
+      "Foydali ekanligi",
+      "Maqtovga loyiqligi",
+      "Mukofotlanishi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ijtimoiy xavflilik, huquqqa zidlik va ayblilik huquqbuzarlikning asosiy belgilaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-217",
+    "question": "«Huquqqa zidlik» nimani anglatadi?",
+    "options": [
+      "Qoidalarga rioya qilishni",
+      "Belilangan qoidalarni buzganlikni",
+      "Qonunni o'rganishni",
+      "Qonunni targ'ib qilishni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huquqqa zidlik — amaldagi qonun va qoidalarga zid harakat yoki harakatsizlik.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-218",
+    "question": "«Ayblilik» nimani anglatadi?",
+    "options": [
+      "Mukofot olishni",
+      "Dam olishni",
+      "Qilmishda shaxs aybining mavjudligini",
+      "Kasal bo'lishni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ayblilik — shaxsning o'z qilmishiga va uning oqibatlariga nisbatan ruhiy munosabati (qasddan yoki ehtiyotsizlikdan).",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-219",
+    "question": "Huquqbuzarlik turlari qaysi qatorda to'g'ri ko'rsatilgan?",
+    "options": [
+      "Og'ir, yengil, o'rta",
+      "Katta, kichik",
+      "Ertalabki, kechki",
+      "Intizomiy, fuqarolik-huquqiy, ma'muriy, jinoiy"
+    ],
+    "correctIndex": 3,
+    "explanation": "To'rtta asosiy tur: intizomiy, fuqarolik-huquqiy, ma'muriy va jinoiy huquqbuzarliklar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-220",
+    "question": "Qarzni shartnomadagi muddatda qaytarmaslik qanday huquqbuzarlik?",
+    "options": [
+      "Jinoiy",
+      "Intizomiy",
+      "Fuqarolik-huquqiy",
+      "Harbiy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shartnoma majburiyatlarini bajarmaslik fuqarolik-huquqiy javobgarlikni keltirib chiqaradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 22-mavzu"
+  },
+  {
+    "id": "d8-221",
+    "question": "Yuridik javobgarlikka asos bo'lib nima hisoblanadi?",
+    "options": [
+      "Shartnoma tuzish",
+      "Huquqbuzarlik",
+      "Saylovda qatnashish",
+      "Murojaat qilish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yuridik javobgarlikning yagona amaliy asosi sodir etilgan huquqbuzarlikdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-222",
+    "question": "O'zbekistonda o'lim jazosi qachon bekor qilingan?",
+    "options": [
+      "1991-yilda",
+      "2000-yilda",
+      "2008-yil 1-yanvardan",
+      "2019-yilda"
+    ],
+    "correctIndex": 2,
+    "explanation": "O'zbekistonda o'lim jazosi 2008-yil 1-yanvardan rasman bekor qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-223",
+    "question": "«Hayfsan» qanday javobgarlik chorasi?",
+    "options": [
+      "Intizomiy",
+      "Jinoiy",
+      "Ma'muriy",
+      "Xalqaro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hayfsan mehnat qonunchiligidagi intizomiy jazo chorasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-224",
+    "question": "Ma'muriy jazo turiga qaysi biri misol bo'ladi?",
+    "options": [
+      "Hayfsan",
+      "Ogohlantirish xati",
+      "Mukofotdan mahrum qilish",
+      "Jarima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jarima ma'muriy huquqbuzarliklar uchun qo'llaniladigan asosiy jazo turidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-225",
+    "question": "«Jazo muqarrarligi» tamoyili nimani anglatadi?",
+    "options": [
+      "Jazolar yumshoq bo'lishini",
+      "Hech bir huquqbuzarlik jazosiz qolmasligini",
+      "Jazolar kechirilishini",
+      "Jazolar maxfiy bo'lishini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jazo muqarrarligi — qilingan har bir huquqbuzarlik uchun javobgarlik muqarrar ekanligidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-226",
+    "question": "Yuridik javobgarlik qanday turlarga bo'linadi?",
+    "options": [
+      "Ertalabki va kechki",
+      "Intizomiy, fuqarolik-huquqiy, ma'muriy, jinoiy",
+      "Yozgi va qishki",
+      "Katta va kichik"
+    ],
+    "correctIndex": 1,
+    "explanation": "Javobgarlik turlari: intizomiy, moddiy/fuqarolik, ma'muriy va jinoiy javobgarlik.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-227",
+    "question": "Jinoiy jazo turiga qaysi biri misol bo'ladi?",
+    "options": [
+      "Hayfsan",
+      "Ogohlantirish xati",
+      "Axloq tuzatish ishlari",
+      "Mukofotdan mahrum qilish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Axloq tuzatish ishlari, ozodlikni cheklash va mahrum qilish jinoiy jazo turlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-228",
+    "question": "Ma'muriy qamoq eng ko'pi bilan qancha muddatga qo'llaniladi?",
+    "options": [
+      "15 sutkagacha",
+      "1 yilgacha",
+      "5 yilgacha",
+      "10 yilgacha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ma'muriy qamoq umumiy tartibda 15 sutkagacha (favqulodda hollarda 30 sutkagacha) qo'llaniladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-229",
+    "question": "Jazo tayinlashda muqarrarlik bilan birga qaysi tamoyil ham e'tiborga olinadi?",
+    "options": [
+      "Qasoskorlik",
+      "Shafqatsizlik",
+      "Befarqlik",
+      "Bag'rikenglik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Insonparvarlik, adolat va bag'rikenglik jazo qo'llashda muhim ahamiyatga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-230",
+    "question": "Fuqarolik javobgarligiga qaysi biri misol bo'ladi?",
+    "options": [
+      "Yetkazilgan zararni qoplash, penya to'lash",
+      "Qamoqqa olish",
+      "Hayfsan berish",
+      "Ishdan bo'shatish"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yetkazilgan moddiy yoki ma'naviy zararni qoplash fuqarolik javobgarligi chorasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 23-mavzu"
+  },
+  {
+    "id": "d8-231",
+    "question": "Quyidagilardan qaysi biri huquqni muhofaza qiluvchi organ?",
+    "options": [
+      "Prokuratura",
+      "Siyosiy partiya",
+      "Gazeta tahririyati",
+      "Sport klubi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prokuratura, IIB, DXX va bojxona huquqni muhofaza qiluvchi davlat organlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-232",
+    "question": "Prokuraturaning asosiy vazifasi nima?",
+    "options": [
+      "Qonun qabul qilish",
+      "Qonunlar ijrosi ustidan nazorat qilish",
+      "Dars o'tish",
+      "Davolash"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prokuratura qonunlarning aniq va bir xilda ijro etilishi ustidan nazoratni amalga oshiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-233",
+    "question": "Ichki ishlar organlarining vazifasi nima?",
+    "options": [
+      "Qonun qabul qilish",
+      "Pul chop etish",
+      "Jamoat tartibini saqlash",
+      "Darslik yozish"
+    ],
+    "correctIndex": 2,
+    "explanation": "IIB fuqarolar xavfsizligini ta'minlash va jamoat tartibini saqlash bilan shug'ullanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-234",
+    "question": "Davlat xavfsizlik xizmati nima bilan shug'ullanadi?",
+    "options": [
+      "Yo'l qurilishi bilan",
+      "Obodonlashtirish bilan",
+      "Savdo bilan",
+      "Davlat xavfsizligiga tahdidlarning oldini olish bilan"
+    ],
+    "correctIndex": 3,
+    "explanation": "DXX davlat mustaqilligi va xavfsizligiga ichki va tashqi tahdidlarning oldini oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-235",
+    "question": "Qaysi biri huquqni muhofaza qiluvchi organ EMAS?",
+    "options": [
+      "Sud",
+      "Prokuratura",
+      "Siyosiy partiya",
+      "Ichki ishlar organlari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Siyosiy partiya jamoat tashkilotidir, huquqni muhofaza qiluvchi organ emas.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-236",
+    "question": "Huquqni muhofaza qiluvchi organ nima?",
+    "options": [
+      "Qonuniylik va huquqiy tartibotni ta'minlovchi davlat organi",
+      "Savdo tashkiloti",
+      "Sport klubi",
+      "Konsert zali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qonun ustuvorligi, jamoat tartibi va inson huquqlarini himoya qiluvchi maxsus davlat organlaridir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-237",
+    "question": "Qonunlar ijrosi ustidan nazoratni qaysi organ amalga oshiradi?",
+    "options": [
+      "Maktab",
+      "Prokuratura organlari",
+      "Kutubxona",
+      "Kasalxona"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qonunlar ijrosi ustidan oliy nazoratni Bosh prokuror va unga bo'ysunuvchi prokurorlar amalga oshiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-238",
+    "question": "Bojxona organlarining vazifasi nima?",
+    "options": [
+      "Dars o'tish",
+      "Davolash",
+      "Chegaradan o'tuvchi yuklarni nazorat qilish",
+      "Yo'l qurish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bojxona organlari O'zbekiston chegarasi orqali tovarlar va transport vositalari o'tishini nazorat qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-239",
+    "question": "Soliq organlarining vazifasi nima?",
+    "options": [
+      "Ob-havoni kuzatish",
+      "Sportni rivojlantirish",
+      "Kinolar olish",
+      "Soliqlar yig'ilishini nazorat qilish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Soliq idoralari davlat byudjetiga soliqlarning to'liq va o'z vaqtida tushishini nazorat qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-240",
+    "question": "Sudlar huquqni muhofaza qilishda nima qiladi?",
+    "options": [
+      "Qonun qabul qiladi",
+      "Soliq yig'adi",
+      "Odil sudlovni amalga oshiradi",
+      "Darslik yozadi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sudlar qonuniy kuchga ega qarorlar chiqarib, odil sudlovni amalga oshiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 24-mavzu"
+  },
+  {
+    "id": "d8-241",
+    "question": "Adliya vaziri kim tomonidan tayinlanadi?",
+    "options": [
+      "Senat tomonidan saylanadi",
+      "Vazirlar Mahkamasi taqdimiga binoan Prezident tomonidan tayinlanadi",
+      "Bosh prokuror tomonidan tayinlanadi",
+      "Oliy sud tomonidan tayinlanadi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adliya vaziri Qonunchilik palatasi ma'qullaganidan so'ng Prezident tomonidan tayinlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-242",
+    "question": "Advokatning vazifasi nima?",
+    "options": [
+      "Himoya qilish va yuridik yordam ko'rsatish",
+      "Hukm chiqarish",
+      "Qonun qabul qilish",
+      "Soliq yig'ish"
+    ],
+    "correctIndex": 0,
+    "explanation": "Advokat fuqarolar va tashkilotlarga professional yuridik yordam ko'rsatadi va ularni himoya qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-243",
+    "question": "Notariusning vazifasi nima?",
+    "options": [
+      "Jinoyatchilarni ushlash",
+      "Davolash",
+      "Bitimlarni tasdiqlash, meros ishlarini rasmiylashtirish",
+      "Dars o'tish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Notarius shartnomalarni tasdiqlaydi, ishonchnomalar beradi va meros huquqini rasmiylashtiradi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-244",
+    "question": "Notarius lavozimiga eng kamida necha yoshdan tayinlash mumkin?",
+    "options": [
+      "18 yoshdan",
+      "21 yoshdan",
+      "23 yoshdan",
+      "25 yoshdan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Notarius lavozimiga 25 yoshdan kichik bo'lmagan, oliy yuridik ma'lumotli va stajga ega fuqarolar tayinlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-245",
+    "question": "FHDYO organlari nimalarni qayd etadi?",
+    "options": [
+      "Faqat soliqlarni",
+      "Tug'ilish, nikoh, o'lim kabi fuqarolik holatlarini",
+      "Faqat jinoyatlarni",
+      "Faqat savdo bitimlarini"
+    ],
+    "correctIndex": 1,
+    "explanation": "FHDYO — tug'ilish, nikoh tuzish, nikohdan ajralish va o'lim holatlarini davlat ro'yxatiga oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-246",
+    "question": "Adliya vazirligining vazifasiga qaysi biri kiradi?",
+    "options": [
+      "Jinoyatchilarni ushlash",
+      "Qonun ijodkorligi va hujjatlarni ro'yxatdan o'tkazish",
+      "Yo'l qurish",
+      "Non yopish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adliya organlari normativ-huquqiy hujjatlarni ekspertizadan o'tkazadi va davlat ro'yxatiga oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-247",
+    "question": "Kimlar advokatlik faoliyati bilan shug'ullana olmaydi?",
+    "options": [
+      "Sudlanganligi olib tashlanmagan shaxslar",
+      "Oliy ma'lumotlilar",
+      "Tajribali yuristlar",
+      "Halol fuqarolar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sudlanganligi olib tashlanmagan yoki o'talmagan shaxslar advokat bo'la olmaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-248",
+    "question": "Davlat xizmatlari markazlari kimga xizmat ko'rsatadi?",
+    "options": [
+      "Faqat vazirlarga",
+      "Faqat chet elliklarga",
+      "Aholiga – hujjatlarni rasmiylashtirishda",
+      "Faqat harbiylarga"
+    ],
+    "correctIndex": 2,
+    "explanation": "DXM aholi va tadbirkorlarga «yagona darcha» tamoyili asosida davlat xizmatlarini ko'rsatadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-249",
+    "question": "Advokatura davlat organimi?",
+    "options": [
+      "Ha, vazirlik",
+      "Ha, sud",
+      "Ha, qo'mita",
+      "Yo'q, mustaqil huquqiy institut"
+    ],
+    "correctIndex": 3,
+    "explanation": "Advokatura mustaqil nodavlat huquqiy institutdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-250",
+    "question": "Notarius bo'lish uchun nimalar talab qilinadi?",
+    "options": [
+      "Oliy yuridik ma'lumot, 3 yillik staj va malaka imtihoni",
+      "Faqat haydovchilik guvohnomasi",
+      "Faqat sport razryadi",
+      "Faqat chet tili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oliy yuridik ma'lumot, yuridik mutaxassislik bo'yicha staj va imtihondan o'tish shart.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 25-mavzu"
+  },
+  {
+    "id": "d8-251",
+    "question": "Harbiy xizmatga necha yoshga to'lgan fuqarolar chaqiriladi?",
+    "options": [
+      "16 yoshga to'lganlar",
+      "17 yoshga to'lganlar",
+      "18 yoshga to'lganlar",
+      "20 yoshga to'lganlar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Muddatli harbiy xizmatga chaqiruv 18 yoshdan amalga oshiriladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-252",
+    "question": "Qurolli Kuchlarning Oliy Bosh Qo'mondoni kim?",
+    "options": [
+      "Prezident",
+      "Bosh vazir",
+      "Senat raisi",
+      "Bosh prokuror"
+    ],
+    "correctIndex": 0,
+    "explanation": "O'zbekiston Prezidenti Qurolli Kuchlarning Oliy Bosh Qo'mondonidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-253",
+    "question": "Qurolli Kuchlarning asosiy vazifasi nima?",
+    "options": [
+      "Qonun qabul qilish",
+      "Davlat suvereniteti va hududiy yaxlitligini himoya qilish",
+      "Soliq yig'ish",
+      "Dars o'tish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qurolli Kuchlar davlat suvereniteti, hududiy yaxlitligi va tinch hayotni himoya qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-254",
+    "question": "«Armiya va xalq birligi» nima?",
+    "options": [
+      "Bayram nomi",
+      "Kitob nomi",
+      "Ko'cha nomi",
+      "Harbiy qurilish tamoyili"
+    ],
+    "correctIndex": 3,
+    "explanation": "«Armiya va xalq birligi» — Qurolli Kuchlarni qurish va mustahkamlashning asosiy tamoyilidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-255",
+    "question": "Yoshlarni harbiy-vatanparvarlik ruhida tarbiyalash necha bosqichda amalga oshiriladi?",
+    "options": [
+      "2 bosqichda",
+      "3 bosqichda",
+      "4 bosqichda",
+      "5 bosqichda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Darslikka muvofiq, harbiy-vatanparvarlik tarbiyasi 4 bosqichda amalga oshiriladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-256",
+    "question": "Yoshlarni harbiy-vatanparvarlik ruhida tarbiyalash bo'yicha hukumat qarori qachon qabul qilingan?",
+    "options": [
+      "2010-yilda",
+      "2015-yilda",
+      "2018-yil 23-fevralda",
+      "2022-yilda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vazirlar Mahkamasining 140-sonli qarori 2018-yil 23-fevralda qabul qilingan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-257",
+    "question": "Harbiy-vatanparvarlik tarbiyasining birinchi bosqichi kimlarni qamrab oladi?",
+    "options": [
+      "3–17 yoshdagi bolalarni",
+      "Faqat talabalarni",
+      "Faqat askarlarni",
+      "Faqat keksalarni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Birinchi bosqich bolalik va o'smirlik davrini (3–17 yosh) qamrab oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-258",
+    "question": "Qurolli Kuchlar nimani himoya qiladi?",
+    "options": [
+      "Faqat chegaradagi hayvonlarni",
+      "Aholining tinch hayoti va xavfsizligini",
+      "Faqat o'rmonlarni",
+      "Faqat yo'llarni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qurolli Kuchlar xalqning tinch va osoyishta hayotini himoya qiladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-259",
+    "question": "Qurolli Kuchlarning vazifalariga yana qaysi biri kiradi?",
+    "options": [
+      "Konsert berish",
+      "Film olish",
+      "Kitob yozish",
+      "Urush va qurolli mojarolarning oldini olish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Harbiy mojarolar va urushlarning oldini olish harbiy doktrinaning asosiy vazifasidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-260",
+    "question": "Qurolli Kuchlar tizimida qanday tashkilot bo'linmalari tuzilgan?",
+    "options": [
+      "Sport klublari",
+      "Raqs to'garaklari",
+      "Rassomlik studiyalari",
+      "Yoshlar ittifoqi birlamchi bo'linmalari"
+    ],
+    "correctIndex": 3,
+    "explanation": "Harbiy qismlarda Yoshlar ittifoqining boshlang'ich tashkilotlari faoliyat yuritadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 26-mavzu"
+  },
+  {
+    "id": "d8-261",
+    "question": "Inson necha yoshdan voyaga yetgan hisoblanadi?",
+    "options": [
+      "16 yoshdan",
+      "18 yoshdan",
+      "20 yoshdan",
+      "21 yoshdan"
+    ],
+    "correctIndex": 1,
+    "explanation": "O'zbekistonda 18 yoshga to'lgan fuqarolar voyaga yetgan hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-262",
+    "question": "To'la muomala layoqati qachon vujudga keladi?",
+    "options": [
+      "18 yoshga to'lganda",
+      "14 yoshga to'lganda",
+      "16 yoshga to'lganda",
+      "Tug'ilganda"
+    ],
+    "correctIndex": 0,
+    "explanation": "To'liq muomala layoqati 18 yoshga to'lish bilan to'liq hajmda vujudga keladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-263",
+    "question": "14–18 yoshli o'smir ota-ona roziligisiz nimani mustaqil qila oladi?",
+    "options": [
+      "Uy sota oladi",
+      "Katta qarz ola oladi",
+      "O'z stipendiyasi va ish haqini tasarruf eta oladi",
+      "Mashina sota oladi"
+    ],
+    "correctIndex": 2,
+    "explanation": "14–18 yoshdagi o'smirlar o'z maoshi, stipendiyasi va mualliflik haqini mustaqil tasarruf qila oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-264",
+    "question": "«Emansipatsiya» deb nimaga aytiladi?",
+    "options": [
+      "Maktabni bitirishga",
+      "Nikoh to'yiga",
+      "Harbiy xizmatga",
+      "16 yoshga to'lgan shaxsni sud qarori bilan to'la layoqatli deb e'lon qilishga"
+    ],
+    "correctIndex": 3,
+    "explanation": "Emansipatsiya — 16 yoshga to'lgan, mehnat shartnomasi bo'yicha ishlayotgan shaxsni to'la layoqatli deb e'lon qilish.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-265",
+    "question": "14 yoshgacha bo'lgan bolalar bitimlarni kim orqali tuzadi?",
+    "options": [
+      "Do'stlari orqali",
+      "Ota-onasi (qonuniy vakillari) orqali",
+      "Qo'shnilari orqali",
+      "O'qituvchisi orqali"
+    ],
+    "correctIndex": 1,
+    "explanation": "14 yoshgacha bo'lgan bolalar nomidan barcha bitimlarni ularning ota-onasi yoki vasiylari tuzadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-266",
+    "question": "Fuqarolik huquqi qanday munosabatlarni tartibga soladi?",
+    "options": [
+      "Faqat jinoyatlarni",
+      "Mulk va shaxsiy nomulkiy munosabatlarni",
+      "Faqat urushlarni",
+      "Faqat saylovlarni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuqarolik huquqi mulkiy va shaxsiy nomulkiy munosabatlarni tartibga soladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-267",
+    "question": "16 yoshga to'lgan shaxs qachon to'la layoqatli deb e'lon qilinishi mumkin?",
+    "options": [
+      "Ishlasa yoki tadbirkorlik qilsa – sud qarori bilan",
+      "Hech qachon",
+      "Faqat chet elga chiqsa",
+      "Faqat uylansa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mehnat shartnomasi asosida ishlasa yoki tadbirkorlik bilan shug'ullansa sud yoxud vasiylik organi qarori bilan to'la layoqatli deb e'lon qilinadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-268",
+    "question": "18 yoshgacha nikohdan olingan muomala layoqati nikoh bekor qilinsa nima bo'ladi?",
+    "options": [
+      "Yo'qoladi",
+      "Yarimga kamayadi",
+      "To'la saqlanib qoladi",
+      "Sudga o'tadi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nikoh bekor qilingan taqdirda ham olingan muomala layoqati to'liq saqlanib qoladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-269",
+    "question": "Kichik yoshdagi bolalar qanday bitimlarni mustaqil tuzishi mumkin?",
+    "options": [
+      "Uy oldi-sotdisini",
+      "Katta qarz shartnomasini",
+      "Zavod sotib olishni",
+      "Mayda maishiy bitimlarni"
+    ],
+    "correctIndex": 3,
+    "explanation": "6 yoshdan 14 yoshgacha bolalar mayda maishiy (muzqaymoq, daftar, non olish kabi) bitimlarni mustaqil tuza oladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-270",
+    "question": "15 yoshli o'smir ota-onasining roziligi bilan ishga yollanishi mumkinmi?",
+    "options": [
+      "Ha, to'g'ri – ota-ona roziligi bilan mumkin",
+      "Yo'q, hech qachon mumkin emas",
+      "Faqat tunda mumkin",
+      "Faqat chet elda mumkin"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 yoshga to'lgan shaxslar ota-onalardan birining yozma roziligi bilan yengil ishlarga qabul qilinishi mumkin.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 27-mavzu"
+  },
+  {
+    "id": "d8-271",
+    "question": "Kimlar «kichik yoshdagilar» hisoblanadi?",
+    "options": [
+      "14 yoshga to'lmaganlar",
+      "16 yoshga to'lmaganlar",
+      "18 yoshga to'lmaganlarning barchasi",
+      "20 yoshga to'lmaganlar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qonunchilikda 14 yoshga to'lmagan shaxslar kichik yoshdagilar hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-272",
+    "question": "14 yoshdan javobgarlik belgilanadigan jinoyatlar ro'yxati qayerda berilgan?",
+    "options": [
+      "Maktab nizomida",
+      "Jinoyat kodeksida",
+      "Gazetada",
+      "Dars jadvalida"
+    ],
+    "correctIndex": 1,
+    "explanation": "14 yoshdan jinoiy javobgarlikka sabab bo'luvchi og'ir jinoyatlar Jinoyat kodeksining 17-moddasida aniq sanab o'tilgan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-273",
+    "question": "Voyaga yetmaganga qo'llanilishi mumkin bo'lgan jazo qaysi?",
+    "options": [
+      "Majburiy ko'chirish",
+      "Mulkni to'liq musodara qilish",
+      "Jarima, axloq tuzatish ishlari",
+      "Fuqarolikdan mahrum etish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Voyaga yetmaganlarga jarima, majburiy jamoat ishlari, axloq tuzatish ishlari va ozodlikdan mahrum qilish jazosi tayinlanishi mumkin.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-274",
+    "question": "Voyaga yetmaganga jarima jazosi necha yoshdan tayinlanadi?",
+    "options": [
+      "13 yoshdan",
+      "14 yoshdan",
+      "15 yoshdan",
+      "16 yoshdan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jarima jazosi mustaqil ish haqi yoki daromadiga ega bo'lgan 16 yoshga to'lgan voyaga yetmaganlarga qo'llaniladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-275",
+    "question": "Jinoyatning subyekti deb kimga aytiladi?",
+    "options": [
+      "Har qanday chaqaloqqa",
+      "Jabrlanuvchiga",
+      "Qonunda belgilangan yoshga yetgan, jinoyat sodir etgan shaxsga",
+      "Guvohga"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jinoyat subyekti — aqli raso va qonunda belgilangan yoshga yetgan jinoyat sodir qilgan shaxs.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-276",
+    "question": "Jinoyat uchun javobgarlik deganda nima tushuniladi?",
+    "options": [
+      "Sud tomonidan hukm qilish va jazo qo'llash",
+      "Maktabdan haydash",
+      "Tanbeh berish",
+      "Jarima solmaslik"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jinoiy javobgarlik — sud hukmi bilan shaxsga nisbatan jazo yoki boshqa majburlov chorasini qo'llash.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-277",
+    "question": "14 yoshga to'lganlar o'z qilmishlarini anglaydimi?",
+    "options": [
+      "Yo'q, hech narsani anglamaydi",
+      "Ha, ayrim qilmishlarning jinoyat ekanligini anglaydi",
+      "Faqat o'yinni anglaydi",
+      "Faqat ovqatni anglaydi"
+    ],
+    "correctIndex": 1,
+    "explanation": "14 yoshli o'smir o'g'rilik, bosqinchilik, qotillik kabi og'ir qilmishlarning xavfliligini to'liq anglaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-278",
+    "question": "Voyaga yetmaganlik jazo tayinlashda qanday holat hisoblanadi?",
+    "options": [
+      "Og'irlashtiruvchi holat",
+      "Ahamiyatsiz holat",
+      "Jazoni yengillashtiruvchi holat",
+      "Javobgarlikni bekor qiluvchi holat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sud tomonidan jazo tayinlashda shaxsning voyaga yetmaganligi jazoni yengillashtiruvchi holat deb baholanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-279",
+    "question": "Voyaga yetmaganga qo'llanilishi mumkin bo'lgan jazolar qaysilar?",
+    "options": [
+      "Faqat ogohlantirish",
+      "Faqat uzr so'rash",
+      "Faqat maktabdan haydash",
+      "Jarima, axloq tuzatish ishlari, qamoq, ozodlikdan mahrum qilish"
+    ],
+    "correctIndex": 3,
+    "explanation": "Voyaga yetmaganlarga nisbatan jinoiy jazolar Jinoyat kodeksida cheklangan ro'yxatda belgilangan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-280",
+    "question": "14 yoshga to'lmagan bolalar jinoiy javobgarlikka tortiladimi?",
+    "options": [
+      "Ha, har doim tortiladi",
+      "Ha, qisman tortiladi",
+      "Faqat jarima bilan tortiladi",
+      "Yo'q, tortilmaydi"
+    ],
+    "correctIndex": 3,
+    "explanation": "14 yoshga to'lmagan bolalar jinoiy javobgarlikka tortilmaydi, javobgarlik ota-onaga yuklatilishi mumkin.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 28-mavzu"
+  },
+  {
+    "id": "d8-281",
+    "question": "Ota-ona o'z bolalarining kimlari hisoblanadi?",
+    "options": [
+      "Vasiylari",
+      "Qonuniy vakillari",
+      "Homiylarigina",
+      "Merosxo'rlari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ota-onalar o'z voyaga yetmagan bolalarining qonuniy vakillari hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-282",
+    "question": "Bolaning ismi va familiyasini o'zgartirish uchun necha yoshdan uning roziligi so'raladi?",
+    "options": [
+      "16 yoshdan",
+      "14 yoshdan",
+      "18 yoshdan",
+      "10 yoshdan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bola 10 yoshga to'lganda uning ismi va familiyasini o'zgartirish faqat uning roziligi bilan amalga oshiriladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-283",
+    "question": "Bolaning shaxsiy buyumlari (kiyimi, o'quv qurollari) kimning mulki hisoblanadi?",
+    "options": [
+      "Maktabning",
+      "Mahallaning",
+      "Bolaning o'zining xususiy mulki",
+      "Davlatning"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bolaning kiyimlari, poyabzali, maktab qurollari uning o'zining shaxsiy mulkidir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-284",
+    "question": "14 yoshgacha bo'lgan bolaga nima belgilanadi?",
+    "options": [
+      "Homiylik",
+      "Nazorat",
+      "Kuzatuv",
+      "Vasiylik"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ota-ona qaramog'idan mahrum bo'lgan 14 yoshgacha bolalarga vasiylik belgilanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-285",
+    "question": "14 yoshdan 18 yoshgacha bo'lgan bolaga nima belgilanadi?",
+    "options": [
+      "Vasiylik",
+      "Homiylik",
+      "Qamoq",
+      "Jarima"
+    ],
+    "correctIndex": 1,
+    "explanation": "14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga homiylik belgilanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-286",
+    "question": "Oila huquqi nimani tartibga soladi?",
+    "options": [
+      "Savdo munosabatlarini",
+      "Nikoh va oila munosabatlarini",
+      "Sport munosabatlarini",
+      "Harbiy munosabatlarni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oila huquqi nikoh tuzish, oilaviy munosabatlar va bolalarni tarbiyalashni tartibga soladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-287",
+    "question": "Bola qanday huquqqa ega?",
+    "options": [
+      "Oilada yashash va tarbiyalanish huquqiga",
+      "Mustaqil sayohat huquqiga",
+      "Ish tashlash huquqiga",
+      "Saylash huquqiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Har bir bola oilada yashash, o'z ota-onasini bilish va ularning g'amxo'rligidan foydalanish huquqiga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-288",
+    "question": "Ota-onaning asosiy majburiyatlari qaysilar?",
+    "options": [
+      "Dam olish va sayr qilish",
+      "Faqat kiyintirish",
+      "Bolani boqish, tarbiyalash va o'qitish",
+      "Faqat sovg'a berish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ota-onalar o'z bolalarini voyaga yetguniga qadar boqishi, tarbiyalashi va o'qitishi shart.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-289",
+    "question": "Buvasidan mashina meros qolgan 13 yoshli bolaning mashinasi kimning mulki?",
+    "options": [
+      "Mahallaning",
+      "Maktabning",
+      "Davlatning",
+      "Bolaning o'zining mulki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bola meros yoki sovg'a tariqasida olgan mol-mulk uning o'zining xususiy mulki hisoblanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-290",
+    "question": "Bolaning turar joyga huquqi bormi?",
+    "options": [
+      "Yo'q, umuman yo'q",
+      "Faqat 18 yoshdan keyin",
+      "Ha, ota-onasi bilan yashash huquqiga ega",
+      "Faqat ijarada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bola ota-onasi yashaydigan turar joyda birgalikda yashash va foydalanish huquqiga ega.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 29-mavzu"
+  },
+  {
+    "id": "d8-291",
+    "question": "Ishga qabul qilishga necha yoshdan ruxsat etiladi?",
+    "options": [
+      "14 yoshdan",
+      "15 yoshdan",
+      "16 yoshdan",
+      "18 yoshdan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yangi Mehnat kodeksiga ko'ra ishga qabul qilishning umumiy yoshi 16 yosh qilib belgilangan.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-292",
+    "question": "15 yoshli bolani ishga qabul qilishning sharti qaysi?",
+    "options": [
+      "Ota-onaning yozma roziligi va tibbiy ko'rikdan o'tish",
+      "Hech qanday shart kerak emas",
+      "Faqat pul to'lash",
+      "Faqat a'lo baholarga o'qish"
+    ],
+    "correctIndex": 0,
+    "explanation": "15 yoshli o'smir ota-onasining yozma roziligi va tibbiy ko'rik xulosasi bilan yengil ishlarga olinadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-293",
+    "question": "16–18 yoshdagilar haftasiga ko'pi bilan necha soat ishlaydi?",
+    "options": [
+      "24 soat",
+      "36 soat",
+      "40 soat",
+      "48 soat"
+    ],
+    "correctIndex": 1,
+    "explanation": "16 yoshdan 18 yoshgacha bo'lgan xodimlar uchun ish vaqti haftasiga ko'pi bilan 36 soatdan oshmasligi kerak.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-294",
+    "question": "15–16 yoshli o'quvchilar haftasiga ko'pi bilan necha soat ishlaydi?",
+    "options": [
+      "36 soat",
+      "40 soat",
+      "48 soat",
+      "24 soat"
+    ],
+    "correctIndex": 3,
+    "explanation": "15 yoshdan 16 yoshgacha bo'lgan xodimlar uchun qisqartirilgan ish vaqti haftasiga 24 soatdan oshmaydi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-295",
+    "question": "Voyaga yetmaganlarga nimalar taqiqlanadi?",
+    "options": [
+      "Kitob o'qish",
+      "Sport bilan shug'ullanish",
+      "Me'yordan ortiq yuk ko'tarish, tungi va ortiqcha ishlar",
+      "Dam olish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Voyaga yetmaganlarni tungi, dam olish kunlaridagi ishlarga va og'ir jismoniy mehnatga jalb qilish taqiqlanadi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-296",
+    "question": "Mehnat huquqi nimani tartibga soladi?",
+    "options": [
+      "Dam olish kunlarini",
+      "Bayramlarni",
+      "Mehnatga oid munosabatlarni",
+      "Uy ishlarini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mehnat huquqi xodim va ish beruvchi o'rtasidagi mehnat munosabatlarini tartibga soladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-297",
+    "question": "18 yoshgacha bo'lgan xodimlar qanday huquqqa ega?",
+    "options": [
+      "Katta yoshdagilar bilan teng huquqqa",
+      "Hech qanday huquqqa ega emas",
+      "Faqat dam olish huquqiga",
+      "Faqat o'qish huquqiga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voyaga yetmaganlar mehnat huquqiy munosabatlarida katta yoshdagilar bilan teng huquqlarga egadirlar.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-298",
+    "question": "Yoshlarni mehnatga jalb qilishdan asosiy maqsad nima?",
+    "options": [
+      "Ko'p pul ishlash",
+      "Mehnatga tayyorlash va kasb tanlashga undash",
+      "Darsdan ozod qilish",
+      "Chet elga yuborish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asosiy maqsad yoshlarni mehnatsevarlikka o'rgatish va kasb-hunarga yo'naltirishdir.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-299",
+    "question": "Voyaga yetmagan xodimlarga mehnat sohasida nima belgilangan?",
+    "options": [
+      "Qo'shimcha jazolar",
+      "Jarimalar",
+      "Taqiqlar",
+      "Qo'shimcha imtiyozlar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Voyaga yetmaganlarga qisqartirilgan ish vaqti, uzaytirilgan ta'tillar (30 kalendar kun) kabi qo'shimcha imtiyozlar beriladi.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  },
+  {
+    "id": "d8-300",
+    "question": "15 yoshli bola ishga kirishda nimadan o'tishi shart?",
+    "options": [
+      "Imtihondan",
+      "Tibbiy ko'rikdan",
+      "Harbiy xizmatdan",
+      "Chet tili testidan"
+    ],
+    "correctIndex": 1,
+    "explanation": "18 yoshga to'lmagan shaxslar ishga kirishda majburiy dastlabki tibbiy ko'rikdan o'tishi shart.",
+    "legalBasis": "8-sinf Davlat va huquq asoslari, 30-mavzu"
+  }
+]

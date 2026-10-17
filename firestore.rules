@@ -1,0 +1,90 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Default-deny catch-all rule as the absolute first check
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Primitive Helpers
+    function isValidId(id) { 
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$'); 
+    }
+    function incoming() { 
+      return request.resource.data; 
+    }
+    function existing() { 
+      return resource.data; 
+    }
+    function isSignedIn() { 
+      return request.auth != null; 
+    }
+    function isOwner(userId) { 
+      return isSignedIn() && request.auth.uid == userId; 
+    }
+    function isAdmin() { 
+      return isSignedIn() && (
+        request.auth.token.email == 'tuluboyev.dilshod97@gmail.com' ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      ); 
+    }
+
+    // Entity validation helper for User
+    function isValidUser(data) {
+      return data.keys().hasAll(['uid', 'email'])
+        && data.keys().hasOnly(['uid', 'displayName', 'email', 'photoURL', 'createdAt', 'updatedAt'])
+        && data.uid is string && data.uid.size() <= 128
+        && data.email is string && data.email.size() <= 128
+        && (data.displayName == null || (data.displayName is string && data.displayName.size() <= 128))
+        && (data.photoURL == null || (data.photoURL is string && data.photoURL.size() <= 512));
+    }
+
+    // Entity validation helper for QuizResult
+    function isValidQuizResult(data) {
+      return data.keys().hasAll(['id', 'userId', 'scorePercentage', 'createdAt'])
+        && data.keys().hasOnly([
+             'id', 'userId', 'date', 'mode', 'topicTitle', 
+             'totalQuestions', 'correctAnswers', 'wrongAnswers', 
+             'unanswered', 'scorePercentage', 'scoreBall', 
+             'timeSpentSeconds', 'incorrectQuestionIds', 'createdAt'
+           ])
+        && data.id is string && data.id.size() <= 128
+        && data.userId is string && data.userId.size() <= 128
+        && data.scorePercentage is number
+        && (data.topicTitle == null || (data.topicTitle is string && data.topicTitle.size() <= 256))
+        && (data.mode == null || (data.mode is string && data.mode.size() <= 64))
+        && (data.date == null || (data.date is string && data.date.size() <= 64))
+        && (data.totalQuestions == null || data.totalQuestions is number)
+        && (data.correctAnswers == null || data.correctAnswers is number)
+        && (data.wrongAnswers == null || data.wrongAnswers is number)
+        && (data.unanswered == null || data.unanswered is number)
+        && (data.scoreBall == null || data.scoreBall is number)
+        && (data.timeSpentSeconds == null || data.timeSpentSeconds is number)
+        && (data.incorrectQuestionIds == null || data.incorrectQuestionIds is list);
+    }
+
+    // Match rules for collections
+    match /users/{userId} {
+      allow read: if isSignedIn();
+      allow create: if isSignedIn() && isOwner(userId) && isValidUser(incoming());
+      allow update: if isSignedIn() && (isOwner(userId) || isAdmin()) && isValidUser(incoming())
+                       && incoming().uid == existing().uid
+                       && incoming().email == existing().email;
+      allow delete: if isAdmin();
+    }
+
+    match /results/{resultId} {
+      allow list: if isSignedIn() && resource.data.userId == request.auth.uid;
+      allow get: if isSignedIn() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow create: if isSignedIn() && incoming().userId == request.auth.uid && isValidQuizResult(incoming());
+      allow update: if isSignedIn() && existing().userId == request.auth.uid && incoming().userId == request.auth.uid && isValidQuizResult(incoming());
+      allow delete: if isSignedIn() && (existing().userId == request.auth.uid || isAdmin());
+    }
+
+    match /admins/{adminId} {
+      allow read: if isSignedIn();
+      allow write: if false; // Only manageable directly from firebase console
+    }
+  }
+}
